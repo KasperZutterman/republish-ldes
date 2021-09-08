@@ -1,0 +1,29 @@
+# trigger workflow:
+
+on:
+  # - on push to branch 'main'
+  push:
+    branches:
+      - main
+  # - on schedule, every 10 minutes
+  schedule:
+    - cron: '*/30 * * * *'
+  # - manually
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository, so it can read the files inside it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # Fetch the dataset, write the data to json files and push the files to the repo
+      - name: Fetch and write data
+        uses: TREEcg/LDES-Action@development
+        with:
+          # url you want to fetch
+          url: 'https://smartdata.dev-vlaanderen.be/base/postinfo'
+          # output directory name
+          storage: 'gemeente'
+          fragmentation_strategy: 'version'
