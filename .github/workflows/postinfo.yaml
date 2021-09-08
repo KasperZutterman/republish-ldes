@@ -2,9 +2,9 @@
 
 on:
   # - on push to branch 'main'
-  push:
-    branches:
-      - main
+  #push:
+  #  branches:
+  #    - main
   # - on schedule, every 10 minutes
   schedule:
     - cron: '*/30 * * * *'
