@@ -19,5 +19,5 @@ jobs:
           url: 'https://smartdata.dev-vlaanderen.be/base/gemeente'
           # output directory name
           storage: 'test'
-          fragmentation_strategy: 'version'
+          fragmentation_strategy: 'subject-pages'
           datasource_strategy: 'ldes-client'
