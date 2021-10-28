@@ -1,0 +1,30 @@
+# trigger workflow:
+
+on:
+  # - on schedule, every 4 hours
+  #schedule:
+  #  - cron: '0 */4 * * *'
+  # - manually
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository, so it can read the files inside it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # Fetch the dataset, write the data to json files and push the files to the repo
+      - name: Fetch and write data
+        uses: TREEcg/LDES-Action@feat-33
+        with:
+          datasource_strategy: 'ldes-client'
+          # url you want to fetch
+          url: 'https://smartdata.dev-vlaanderen.be/base/straatnaam'
+          # output directory name
+          storage: 'straatnaam-substrings'
+          fragmentation_strategy: 'substring'
+          fragmentation_page_size: 20
+          property_path: '<http://www.w3.org/2000/01/rdf-schema#label>'
+          stream_data: "true"
+          timeout: 600000
