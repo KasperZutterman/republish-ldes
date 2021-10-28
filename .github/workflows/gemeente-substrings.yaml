@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
       # Fetch the dataset, write the data to json files and push the files to the repo
       - name: Fetch and write data
-        uses: TREEcg/LDES-Action@feat-34
+        uses: TREEcg/LDES-Action@feat-33
         with:
           datasource_strategy: 'ldes-client'
           # url you want to fetch
@@ -27,3 +27,4 @@ jobs:
           fragmentation_page_size: 20
           property_path: '<http://www.w3.org/2000/01/rdf-schema#label>'
           stream_data: "true"
+          timeout: "1000"
