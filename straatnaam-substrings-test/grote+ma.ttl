@@ -368,3 +368,112 @@ _:df_1_24691 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/grote+mar.ttl>;
     <https://w3id.org/tree#value> "grote", "mar".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/grote+ma.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2873eaa52b1a55f101951c002c1a9852c505f7d9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/74896>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:31.634Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-04-09T18:25:11+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrectedToCleared";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2873eaa52b1a55f101951c002c1a9852c505f7d9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7faaa808c9c03e9f20af900f656983d0355ef46a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/74896>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:31.638Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:00:36+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl, "Grand-Place"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7faaa808c9c03e9f20af900f656983d0355ef46a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d552f8a793159cc6e34dd7a405ca2fd56b425508> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/76355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:03.428Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/46003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d552f8a793159cc6e34dd7a405ca2fd56b425508>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fdeb8cf4974453c239e7ff0ba2777a2b1a3cc666> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/26117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:19.242Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/23027>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fdeb8cf4974453c239e7ff0ba2777a2b1a3cc666>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#08a5e4c9d1023391bcd0684f5a439703e28d8191> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/10140>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:55.461Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/12021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#08a5e4c9d1023391bcd0684f5a439703e28d8191>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#90f151f9980856b2ff66e72fc4b2c2d8c5588f03> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/77657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:42:02.065Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/46021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#90f151f9980856b2ff66e72fc4b2c2d8c5588f03>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4883e1bdd1e62490ae31cd144959d0a96561ad77> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/10570>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:42:37.743Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/12025>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4883e1bdd1e62490ae31cd144959d0a96561ad77>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2fa9c58e2ac85cd72a8178e40c237a4eb27c195b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/61262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:53.887Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/38025>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2fa9c58e2ac85cd72a8178e40c237a4eb27c195b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b6ff85f6dfc70ab0612b0d7cc2f17e0a3fc1f99e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/44671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:50.744Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/31004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b6ff85f6dfc70ab0612b0d7cc2f17e0a3fc1f99e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c7ed211880ac2f7c310453f19ec065e76f17aa27> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/61695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:45:22.881Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/41002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c7ed211880ac2f7c310453f19ec065e76f17aa27>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#175763a68285d08df067c3f1702b34c18da5b95c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/146364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:49:56.244Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/31005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#175763a68285d08df067c3f1702b34c18da5b95c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#29133da1f7a1b7a03796600772d3cec65e05a92f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/29278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:52:31.494Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Grote Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/23088>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#29133da1f7a1b7a03796600772d3cec65e05a92f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/grote+ma.ttl>.

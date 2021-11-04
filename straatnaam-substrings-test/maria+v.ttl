@@ -376,3 +376,192 @@ _:df_1_22729 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/maria+va.ttl>;
     <https://w3id.org/tree#value> "maria", "va".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/maria+v.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fcc22e2a68f3a22ae8529f4a238d5fbd6a3ee804> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:23.962Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Hongarijelaan"@nl, "Avenue Marie de Hongrie"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fcc22e2a68f3a22ae8529f4a238d5fbd6a3ee804>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5f937696fa927960a7e0a73d2e6d06460ae2836c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/187467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:51.161Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-12-05T10:58:15+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Van Genechten - Hauqierstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5f937696fa927960a7e0a73d2e6d06460ae2836c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e4665dd3066e18e1c1b62b1bf13255b53578627d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/187467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:51.163Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2017-08-23T15:42:13+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Van Genechten - Hauquierstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e4665dd3066e18e1c1b62b1bf13255b53578627d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#82129f6ffdb981b2d9d20200434189942f34f814> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/187470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:53.227Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-11-25T06:10:50+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Van De Weygaertstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#82129f6ffdb981b2d9d20200434189942f34f814>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9f9d13c255f161b8de827ae77b894260012f2a70> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:23.523Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Bourgondiëstraat"@nl, "Rue Marie de Bourgogne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9f9d13c255f161b8de827ae77b894260012f2a70>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d4a11b826dedc808ce43fec1bec8e118f206d962> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/70997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:40.237Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Boergondiëstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d4a11b826dedc808ce43fec1bec8e118f206d962>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9c7b94058eecf83c299dbf5a4d5a7d973460f308> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/193918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:48.110Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2017-09-27T05:01:23+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Verbraekenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11056>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9c7b94058eecf83c299dbf5a4d5a7d973460f308>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#39c2da6d79e4914dec369eff97a2f83439b9ae76> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/193918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:48.119Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2017-10-09T07:32:39+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Verbraekenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11056>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#39c2da6d79e4914dec369eff97a2f83439b9ae76>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2daf574d93d93c80d3718f1dbfea67e1a0cbea8e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:21.603Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Hongarijelaan"@nl, "Avenue Marie de Hongrie"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2daf574d93d93c80d3718f1dbfea67e1a0cbea8e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#99f32c37b24689e18887840212f9b653f03fd5a4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:28.123Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Bourgondiëstraat"@nl, "Rue Marie de Bourgogne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#99f32c37b24689e18887840212f9b653f03fd5a4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b318191ce5105eb6ee205fae561f0bb84b8e0dcd> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/57235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:28.111Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Bourgondiëstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b318191ce5105eb6ee205fae561f0bb84b8e0dcd>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0b3aad5ba99acf79fbac844a3de159b2a61bef81> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/74567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:12.617Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Van der Gheynststraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45035>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0b3aad5ba99acf79fbac844a3de159b2a61bef81>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e7fe77cce8be6c53f13daed4b21c0fc506e730a3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/209557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:34:16.388Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-18T15:41:36+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Verhoevenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/13014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e7fe77cce8be6c53f13daed4b21c0fc506e730a3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ffb3307af3816e0e11a7ef7c497a2873802e24f4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/143922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:21.658Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Vlamijnckstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/38014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ffb3307af3816e0e11a7ef7c497a2873802e24f4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f26901c3d3201c0cd3d00c28ca35ca878e1081e9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/145312>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:41:27.157Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria Vanloonstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72030>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f26901c3d3201c0cd3d00c28ca35ca878e1081e9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3d1675df5e2b29e36964b6da28c7062612eaae3b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/145897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:22.660Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Loonstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/71037>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3d1675df5e2b29e36964b6da28c7062612eaae3b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cdba6ef47a9d42eddaafb7a0deb92b473b22fec0> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/45653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:50.219Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Bourgondiëlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/31005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cdba6ef47a9d42eddaafb7a0deb92b473b22fec0>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e9c64566b95f57a2306b15447c807a01a960bce0> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/12567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:50:36.004Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Brabantstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/13002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e9c64566b95f57a2306b15447c807a01a960bce0>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#505a926228a8443c13b39902a9f390425cd7f214> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/12568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:50:36.424Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Zimmeronstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/13002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#505a926228a8443c13b39902a9f390425cd7f214>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d2bcb87670bddbf252419031b5fd2bb5a60ae205> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/12568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:50:36.426Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-05-19T14:14:26+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maria van Zimmerenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/13002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d2bcb87670bddbf252419031b5fd2bb5a60ae205>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/maria+v.ttl> <https://w3id.org/tree#relation> _:df_1_20830.
+_:df_1_20830 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/maria+ve.ttl>;
+    <https://w3id.org/tree#value> "maria", "ve".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/maria+v.ttl> <https://w3id.org/tree#relation> _:df_1_20831.
+_:df_1_20831 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/maria+va.ttl>;
+    <https://w3id.org/tree#value> "maria", "va".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/maria+v.ttl>.

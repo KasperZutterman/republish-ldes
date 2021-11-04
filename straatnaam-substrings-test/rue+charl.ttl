@@ -376,3 +376,192 @@ _:df_1_12626 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+charli.ttl>;
     <https://w3id.org/tree#value> "rue", "charli".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+charl.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#24024fd0edc7ce385bbecf7de8a314e896a06590> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:33.770Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charlerie"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92101>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#24024fd0edc7ce385bbecf7de8a314e896a06590>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#43aaefb5ce1e832631030f13c202639e2707f09d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:34.124Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles Piette"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92101>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#43aaefb5ce1e832631030f13c202639e2707f09d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bffcee0c0e3a0c51ce2891df65e606d2d0baae94> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:18.712Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Charles Demeerstraat"@nl, "Rue Charles Demeer"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bffcee0c0e3a0c51ce2891df65e606d2d0baae94>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9b5160931c26c1b276ae0eda5aeddb04f74f8f7c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19642>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:20.228Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Charles Hanssensstraat"@nl, "Rue Charles Hanssens"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9b5160931c26c1b276ae0eda5aeddb04f74f8f7c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a61f4e070b0c15e9e423d34769ef0b49ac8b492f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:20.437Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Charles Ramaekersstraat"@nl, "Rue Charles Ramaekers"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a61f4e070b0c15e9e423d34769ef0b49ac8b492f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#135e8d206bf5449ae9a195bc272b655a39f7945c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:04.153Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles Heuze"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92137>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#135e8d206bf5449ae9a195bc272b655a39f7945c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#62e60dabde6ea7268b95c129fd4cf7dfc75b8eab> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:41.734Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Karel Bulsstraat"@nl, "Rue Charles Buls"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#62e60dabde6ea7268b95c129fd4cf7dfc75b8eab>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3d9629403bce99849c459184db367d44fdbd9d5a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:43.377Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Karel Cammaertstraat"@nl, "Rue Charles Cammaert"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3d9629403bce99849c459184db367d44fdbd9d5a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#829a97cf928ceb41afad95726970377f74a07c2c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:44.581Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Karel Martelstraat"@nl, "Rue Charles Martel"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#829a97cf928ceb41afad95726970377f74a07c2c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8d75ffe4161f7648e8751378febd4647e2889066> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:45.568Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Keizer Karelstraat"@nl, "Rue Charles Quint"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8d75ffe4161f7648e8751378febd4647e2889066>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a967b178deda89d187344ce956bb5378de3744fc> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/103853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:21.216Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charlier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62079>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a967b178deda89d187344ce956bb5378de3744fc>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6a5362389217c3379f1904aa61e7f42e47a96f5a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/87351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:23.094Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles Dupuis"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53065>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6a5362389217c3379f1904aa61e7f42e47a96f5a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8bd25511be6a5005e614f31545ae2548007d1e7e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:35.407Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles-Jaucot"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92142>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8bd25511be6a5005e614f31545ae2548007d1e7e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b07a459d3d78b88bcf429837829d99e6b54b3777> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:35.610Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles-Prévot"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92142>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b07a459d3d78b88bcf429837829d99e6b54b3777>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#aaa8ded94ad1020ba8e0bf74957f84bcaab0aa8d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/87985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:55.573Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles Dieu"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53082>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#aaa8ded94ad1020ba8e0bf74957f84bcaab0aa8d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d4b47d13ac2ff52029c0c42e9217330ac4af8805> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:58.013Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Charles De Buckstraat"@nl, "Rue Charles De Buck"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d4b47d13ac2ff52029c0c42e9217330ac4af8805>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f4f853531534085d039fa5438df00da81298c23f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:58.406Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Charles Degrouxstraat"@nl, "Rue Charles Degroux"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f4f853531534085d039fa5438df00da81298c23f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#21bcdf7ca832effbdc620d39d397b20ece0a91d2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:00.391Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Charles Legrellestraat"@nl, "Rue Charles Legrelle"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#21bcdf7ca832effbdc620d39d397b20ece0a91d2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4c18fbf72aae90e611bb8859402171a9248b654b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:43.859Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles Bernier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53083>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4c18fbf72aae90e611bb8859402171a9248b654b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5ffe5e8b527d2618be651f80e023cd40c8529410> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88350>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:14.740Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Charles Génard"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53084>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5ffe5e8b527d2618be651f80e023cd40c8529410>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+charl.ttl> <https://w3id.org/tree#relation> _:df_1_12060.
+_:df_1_12060 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+charle.ttl>;
+    <https://w3id.org/tree#value> "rue", "charle".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+charl.ttl> <https://w3id.org/tree#relation> _:df_1_12061.
+_:df_1_12061 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+charli.ttl>;
+    <https://w3id.org/tree#value> "rue", "charli".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+charl.ttl>.

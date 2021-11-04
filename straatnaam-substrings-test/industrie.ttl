@@ -392,3 +392,31 @@ _:df_1_24605 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/industriet.ttl>;
     <https://w3id.org/tree#value> "industriet".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/industrie.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a26b7763d203dcf10847f5f71f74ff155e018d2d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/114437>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:56:02.644Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Industriepark"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/71020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a26b7763d203dcf10847f5f71f74ff155e018d2d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#be29275b830619e7c36c0cfb1e4c197c3d18adb3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/114438>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:56:02.812Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Industriestraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/71020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#be29275b830619e7c36c0cfb1e4c197c3d18adb3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#608dc635b8d28ab34a4895a9718217b1dad79782> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/114438>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:56:02.814Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2017-04-11T23:43:18+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Industriestraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/71020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#608dc635b8d28ab34a4895a9718217b1dad79782>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/industrie.ttl>.

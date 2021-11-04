@@ -54,3 +54,13 @@
     a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f8df187bd5fa05e0be64c9c1ad277b631cf3a39d>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/impasse+de+la+g.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3a32f430f68bb8f6cc3219fbcd3fa64ace25aa82> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/145726>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:42:48.717Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Impasse de la Grande Pièce"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/64021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3a32f430f68bb8f6cc3219fbcd3fa64ace25aa82>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/impasse+de+la+g.ttl>.

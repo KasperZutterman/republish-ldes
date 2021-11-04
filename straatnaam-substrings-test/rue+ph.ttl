@@ -396,3 +396,202 @@ _:df_1_21344 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#value> "rue", "ph.".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+ph.ttl>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+ph.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dc39d3b03dfd28e12b7436a16f1894e6c3bc5a9c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/180299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:46:32.528Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-04-09T03:06:19+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Demoulin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52063>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dc39d3b03dfd28e12b7436a16f1894e6c3bc5a9c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6c8906decc9c108abe0822ef070387bacf0e38c8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/85679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:51:41.248Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Passelecq"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53028>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6c8906decc9c108abe0822ef070387bacf0e38c8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#052d2abd51f65a2e1b5b1f77962c8ea1b67bf8aa> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/86102>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:32.044Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philogone Daras"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53046>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#052d2abd51f65a2e1b5b1f77962c8ea1b67bf8aa>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2fb16402f1ed561a0fe21d0bfe9aab5f8d8b3fab> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/185343>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:54.734Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-02-18T03:04:11+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Deponty"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2fb16402f1ed561a0fe21d0bfe9aab5f8d8b3fab>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b1d651cb902fae5b6f479f5a97c603537683aa91> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:09.492Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippart"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b1d651cb902fae5b6f479f5a97c603537683aa91>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8f6e41791e6c0b4feb9eb2e67370236fd845500c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:09.719Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Lobet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8f6e41791e6c0b4feb9eb2e67370236fd845500c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d1ba4f81bff928ac44f9a3616d139af800751565> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:49.818Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Filip Vander Elststraat"@nl, "Rue Philippe Vander Elst"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d1ba4f81bff928ac44f9a3616d139af800751565>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#35b5ec26ee4cc687c994c3c91d65fee4dd37ea1d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:51.271Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Filips de Goedestraat"@nl, "Rue Philippe le Bon"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#35b5ec26ee4cc687c994c3c91d65fee4dd37ea1d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1311f4e5093db553331585d45a38f16b497aa318> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/87176>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:37.191Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Capiaumont"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53053>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1311f4e5093db553331585d45a38f16b497aa318>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#be86b8c117052c6527914fe10edffae5d82b45d1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:05.684Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Philippe de Champagnestraat"@nl, "Rue Philippe de Champagne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#be86b8c117052c6527914fe10edffae5d82b45d1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#74e6d11ad0f66afb32f41ae9cbe61a7ceb7f484b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:19.274Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Phocas Lejeune"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92142>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#74e6d11ad0f66afb32f41ae9cbe61a7ceb7f484b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#84b18a9546365af596d9e8e3723d4a48705da50d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:27.827Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Philippe Baucqstraat"@nl, "Rue Philippe Baucq"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#84b18a9546365af596d9e8e3723d4a48705da50d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#22bb62dfec50b7997371449fbab7e614cd8152cf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:04.438Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philibert Bourlard"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53083>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#22bb62dfec50b7997371449fbab7e614cd8152cf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#56aafbe53d7591517aa486533134c8aa6fc3b4a3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:39.671Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Buchez"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#56aafbe53d7591517aa486533134c8aa6fc3b4a3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dc76a7998b8b8733c93e442dcffb08f82c890eff> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:53.858Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Filips de Goedestraat"@nl, "Rue Philippe le Bon"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dc76a7998b8b8733c93e442dcffb08f82c890eff>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1beb5a707cb0cf305bc7a33852438028158f0b98> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:04.134Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Philippe Piermezstraat"@nl, "Rue Philippe Piermez"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1beb5a707cb0cf305bc7a33852438028158f0b98>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2f02ed69d0e907acac342cb90e65743705efa065> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:45.629Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Collette"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25037>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2f02ed69d0e907acac342cb90e65743705efa065>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5db8cf7900ce0b00e33a3a66252fdbab3413f8c3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:53.144Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Philomènestraat"@nl, "Rue Philomène"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5db8cf7900ce0b00e33a3a66252fdbab3413f8c3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#98567ba64a8519cd03f97d8311ce80cf04ca3f8e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/107118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:34.672Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Philippe Piron"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#98567ba64a8519cd03f97d8311ce80cf04ca3f8e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9d6448c272f7bf745d59c2ef24bafaec5ecabb4c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:28.192Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Philippe Dewolfsstraat"@nl, "Rue Philippe Dewolfs"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21017>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9d6448c272f7bf745d59c2ef24bafaec5ecabb4c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#85417cc79dbeff1e97bbffc9fc42a473ee7aa729> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/79246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:11.597Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Ph. Marquis de Namur"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/51008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#85417cc79dbeff1e97bbffc9fc42a473ee7aa729>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+ph.ttl> <https://w3id.org/tree#relation> _:df_1_19830.
+_:df_1_19830 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+phi.ttl>;
+    <https://w3id.org/tree#value> "rue", "phi".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+ph.ttl> <https://w3id.org/tree#relation> _:df_1_19831.
+_:df_1_19831 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+ph.ttl>;
+    <https://w3id.org/tree#value> "rue", "ph.".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+ph.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+ph.ttl>.

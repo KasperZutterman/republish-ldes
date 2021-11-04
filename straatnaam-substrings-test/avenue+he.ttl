@@ -400,3 +400,196 @@ _:df_1_18028 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+hes.ttl>;
     <https://w3id.org/tree#value> "avenue", "hes".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+he.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#20da60d41bb48fe520d28e0e2f29512a7ec58ae2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:18.778Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Feuillienlaan"@nl, "Avenue Henri Feuillien"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#20da60d41bb48fe520d28e0e2f29512a7ec58ae2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3d5128ec1508ef3fa327f605d04751af23ccbd0b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/199915>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:28.159Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2018-06-16T06:34:43+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henriette Lauwerslaan"@nl, "Avenue Henriette Lauwers"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/23103>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3d5128ec1508ef3fa327f605d04751af23ccbd0b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#92b4632b4e5fcb95afa9511c901eca854d1f1fdf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21611>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:10.658Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Hergélaan"@nl, "Avenue Hergé"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#92b4632b4e5fcb95afa9511c901eca854d1f1fdf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a1e74692ff9d20bc4d615b4d1775e6bacab5e5b1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:18.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Liebrechtlaan"@nl, "Avenue Henri Liebrecht"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a1e74692ff9d20bc4d615b4d1775e6bacab5e5b1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4f5a0a93e0516f232c46f552cc51469fcd2469b5> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:34.105Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Hollevoetlaan"@nl, "Avenue Henri Hollevoet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21012>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4f5a0a93e0516f232c46f552cc51469fcd2469b5>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#243c5a754ad95e04895a98d2b74e49f0ba2951a2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:43.228Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Henri Semal"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25031>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#243c5a754ad95e04895a98d2b74e49f0ba2951a2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#772e7e1cee82e856e3be3b15593f52f5a446b8e2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:56.370Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Henri Froidmont"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62119>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#772e7e1cee82e856e3be3b15593f52f5a446b8e2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#16a57e50a2a257516206b22b48747f106d92e8fb> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22445>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:46.143Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Jasparlaan"@nl, "Avenue Henri Jaspar"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#16a57e50a2a257516206b22b48747f106d92e8fb>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#970cdcb2ef4ab7567d641b2ff8ed7c201a7c17ef> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:16.037Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Herbert Hooverlaan"@nl, "Avenue Herbert Hoover"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#970cdcb2ef4ab7567d641b2ff8ed7c201a7c17ef>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f6c65d197f73006455aea6788e501e0d834c566e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:52.848Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Helleveltlaan"@nl, "Avenue Hellevelt"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f6c65d197f73006455aea6788e501e0d834c566e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#92e0790f71a8c655f1fb7cfaa4dbd2a17d05fb8d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:54.123Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Elleboudtlaan"@nl, "Avenue Henri Elleboudt"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#92e0790f71a8c655f1fb7cfaa4dbd2a17d05fb8d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f5b9be4830b47de3230becc6b4722cd6bb77f778> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:54.290Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Pirennelaan"@nl, "Avenue Henri Pirenne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f5b9be4830b47de3230becc6b4722cd6bb77f778>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#46c57c02e38cc25256d1ed810f859fc9be43ecb3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:14.718Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Dietrichlaan"@nl, "Avenue Henri Dietrich"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#46c57c02e38cc25256d1ed810f859fc9be43ecb3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d5c4b963830a57adf02f7b5d12d2a6fc28657779> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:14.880Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Henri Lafontainelaan"@nl, "Avenue Henri Lafontaine"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d5c4b963830a57adf02f7b5d12d2a6fc28657779>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4287c577acd9d0d150a0d0910f6b271ca826787f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23680>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:16.951Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Herbert Hooverlaan"@nl, "Avenue Herbert Hoover"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4287c577acd9d0d150a0d0910f6b271ca826787f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9d5e4f601931940c35ebc00831ccd961ac908c16> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:19.707Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Heydenberglaan"@nl, "Avenue Heydenberg"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9d5e4f601931940c35ebc00831ccd961ac908c16>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ffd7c69b06d2ab63a69f43d50d211e93774384d3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:59.657Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Hector Steyaert"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25091>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ffd7c69b06d2ab63a69f43d50d211e93774384d3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d2aad577bb733ccbfdb4b7e2e1beb305a15d879e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:19.045Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Herbert Hoover"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25091>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d2aad577bb733ccbfdb4b7e2e1beb305a15d879e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6fcc9b42c82c88f9c9fb9327257416c93b2952a9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/108047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:23.949Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Henri Pirenne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6fcc9b42c82c88f9c9fb9327257416c93b2952a9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#58ed8724398cb4f975553a6bdebfa530cd75593c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/41173>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:28.881Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Henri Zaman"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25105>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#58ed8724398cb4f975553a6bdebfa530cd75593c>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+he.ttl> <https://w3id.org/tree#relation> _:df_1_17001.
+_:df_1_17001 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+hen.ttl>;
+    <https://w3id.org/tree#value> "avenue", "hen".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+he.ttl> <https://w3id.org/tree#relation> _:df_1_17002.
+_:df_1_17002 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+her.ttl>;
+    <https://w3id.org/tree#value> "avenue", "her".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+he.ttl> <https://w3id.org/tree#relation> _:df_1_17003.
+_:df_1_17003 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+hel.ttl>;
+    <https://w3id.org/tree#value> "avenue", "hel".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+he.ttl>.

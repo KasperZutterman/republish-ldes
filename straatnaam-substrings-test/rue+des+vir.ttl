@@ -36,3 +36,13 @@
     a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2a380d83dd4615a889e0e7ee23c129b60d5fa6d8>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+des+vir.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d41c8d0ad1658fd3b33313a2faa99344aae8d6fe> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/208115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:33:08.891Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-20T13:15:33+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Virées"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/84033>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d41c8d0ad1658fd3b33313a2faa99344aae8d6fe>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+des+vir.ttl>.

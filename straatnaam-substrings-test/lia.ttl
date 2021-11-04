@@ -36,3 +36,22 @@
     a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c98ea9468a4c459ebf3524904e0fd5ff0f9164f2>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/lia.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b2b2fa8d55f8a716356abe9d58a36e1ee1626965> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/181094>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:35.794Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-07-14T15:35:19+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Liane Bruylantlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b2b2fa8d55f8a716356abe9d58a36e1ee1626965>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c98ea9468a4c459ebf3524904e0fd5ff0f9164f2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/181094>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:35.799Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2017-08-23T15:43:03+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Liane Bruylantslaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c98ea9468a4c459ebf3524904e0fd5ff0f9164f2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/lia.ttl>.

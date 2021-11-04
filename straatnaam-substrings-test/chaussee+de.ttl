@@ -536,3 +536,268 @@ _:df_1_14300 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+z.ttl>;
     <https://w3id.org/tree#value> "chaussee", "de", "z".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#86c0802fec87475ab65d9ebd4b174a4826472c3b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:59.269Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Dottenijssteenweg"@nl, "Chaussée de Dottignies"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#86c0802fec87475ab65d9ebd4b174a4826472c3b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b32ff4b6f92521d900324a843c108737661cd27c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:59.604Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Gentsesteenweg"@nl, "Chaussée de Gand"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b32ff4b6f92521d900324a843c108737661cd27c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#87d5da9ba83170c0209e27c80b981efdf4fdd9a8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:00.732Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rijselsteenweg"@nl, "Chaussée de Lille"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#87d5da9ba83170c0209e27c80b981efdf4fdd9a8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3673bb30109d0af401a8077abffae9cee310a57a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:03.494Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ruisbroekse Steenweg"@nl, "Chaussée de Ruisbroek"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3673bb30109d0af401a8077abffae9cee310a57a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#91963a5471ce8a244edd4b047eb511a0cbf7a4db> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21339>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:03.651Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Vorstsesteenweg"@nl, "Chaussée de Forest"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#91963a5471ce8a244edd4b047eb511a0cbf7a4db>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1569528058750ee617dc440811b35ace490a2bef> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:43.366Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Boondaalse Steenweg"@nl, "Chaussée de Boondael"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1569528058750ee617dc440811b35ace490a2bef>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0ebd85674545221f2570f2b4c2244b4082265fa2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:45.615Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Bosvoordse Steenweg"@nl, "Chaussée de Boitsfort"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0ebd85674545221f2570f2b4c2244b4082265fa2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d9e8367367d4cf73c804f45f486a60f7b4ccfefa> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:38.477Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Chaussée de Tubize"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d9e8367367d4cf73c804f45f486a60f7b4ccfefa>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#20f0891d26fbb9d89a2b09e31b370135c32a616e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:47.036Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Vleurgatse Steenweg"@nl, "Chaussée de Vleurgat"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#20f0891d26fbb9d89a2b09e31b370135c32a616e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#31511bc44e5a42f8fcc364a223291dfb9cbf0092> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:47.234Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Waterloose Steenweg"@nl, "Chaussée de Waterloo"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#31511bc44e5a42f8fcc364a223291dfb9cbf0092>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d4bbede315a8c718ff7e9f3f09d5f16ab7b6089f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:49.215Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Waverse Steenweg"@nl, "Chaussée de Wavre"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d4bbede315a8c718ff7e9f3f09d5f16ab7b6089f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#be05f5e6f6382a1ab235a22ed51f369b57c2183c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:12.985Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Dieleghemse Steenweg"@nl, "Chaussée de Dieleghem"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#be05f5e6f6382a1ab235a22ed51f369b57c2183c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e21122fde800bd89612aaf2a58c5771e833b4f59> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:17.286Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Garde-Dieusteenweg"@nl, "Chaussée de la Garde-Dieu"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e21122fde800bd89612aaf2a58c5771e833b4f59>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f0da3f06e23b11adc897894b58d482ded97c31e2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:17.414Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Steenweg op Rijsel"@nl, "Chaussée de Lille"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f0da3f06e23b11adc897894b58d482ded97c31e2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0c7840160b10e2cda4f19c26342e302f13ec1a47> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:17.513Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ten-Brielensteenweg"@nl, "Chaussée de Ten-Brielen"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0c7840160b10e2cda4f19c26342e302f13ec1a47>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#018fdef1a2c9a5539c80b15d5fee523b86881805> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:19.305Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Steenweg op Waasten"@nl, "Chaussée de Warneton"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#018fdef1a2c9a5539c80b15d5fee523b86881805>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#19224aa09e536bb4b1586e26fe737a6955b4ab9d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:19.632Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Werviksesteenweg"@nl, "Chaussée de Wervicq"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#19224aa09e536bb4b1586e26fe737a6955b4ab9d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f7f2518ec5600ab53f3279983106624c366105f2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38686>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:20.760Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Chaussée de Huy"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f7f2518ec5600ab53f3279983106624c366105f2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bb0a5b3573842517f9be30e71f0438752c63f6ba> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:24.760Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jetse Steenweg"@nl, "Chaussée de Jette"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bb0a5b3573842517f9be30e71f0438752c63f6ba>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e50b0755cfe763a2a246e8e9240ee1e249d93b0b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:46.404Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Chaussée de Hannut"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62118>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e50b0755cfe763a2a246e8e9240ee1e249d93b0b>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13603.
+_:df_1_13603 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+l.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "l".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13604.
+_:df_1_13604 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+w.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "w".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13605.
+_:df_1_13605 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+g.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "g".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13606.
+_:df_1_13606 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+j.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "j".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13607.
+_:df_1_13607 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+b.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13608.
+_:df_1_13608 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+dec.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "dec".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13609.
+_:df_1_13609 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+m.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13610.
+_:df_1_13610 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+t.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "t".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13611.
+_:df_1_13611 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+c.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "c".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13612.
+_:df_1_13612 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+n.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "n".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13613.
+_:df_1_13613 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+r.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "r".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13614.
+_:df_1_13614 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+f.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "f".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13615.
+_:df_1_13615 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+h.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "h".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13616.
+_:df_1_13616 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+d.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13617.
+_:df_1_13617 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+s.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13618.
+_:df_1_13618 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+des.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "des".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13619.
+_:df_1_13619 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+den.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "den".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13620.
+_:df_1_13620 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+del.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "del".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13621.
+_:df_1_13621 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+p.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "p".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13622.
+_:df_1_13622 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+v.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "v".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl> <https://w3id.org/tree#relation> _:df_1_13623.
+_:df_1_13623 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de+k.ttl>;
+    <https://w3id.org/tree#value> "chaussee", "de", "k".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/chaussee+de.ttl>.

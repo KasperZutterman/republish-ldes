@@ -72,3 +72,22 @@
     a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c1421d8ead8d79300fce5ebda4e8d06d0f3edefb>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/schuth.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3450ba592027e4265e32854ae0e6a8762a4bc116> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/205421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:56.624Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:03:21+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasCorrectedToCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Schuthof"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44085>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3450ba592027e4265e32854ae0e6a8762a4bc116>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e230fbd61a7caae0390972bfe486cbab52824247> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/144590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:45.782Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Schuthaaglaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73006>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e230fbd61a7caae0390972bfe486cbab52824247>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/schuth.ttl>.

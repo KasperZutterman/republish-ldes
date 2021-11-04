@@ -368,3 +368,188 @@ _:df_1_17743 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/koning+bo.ttl>;
     <https://w3id.org/tree#value> "koning", "bo".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/koning+b.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6a8f286b60975ebd5048370ce3c8092a583b40ed> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/119255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:37.943Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnplein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72025>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6a8f286b60975ebd5048370ce3c8092a583b40ed>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c47868ebf0994394cb675143446390e7c40e4568> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/119255>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:37.961Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:08:20+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnplein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72025>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c47868ebf0994394cb675143446390e7c40e4568>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f9e25d48952f0ed61de809bb0d1a1ebc5f0b199a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:26.444Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnplein"@nl, "Place du Roi Baudouin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f9e25d48952f0ed61de809bb0d1a1ebc5f0b199a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#327c8327ee0d4f52b758a54592c9865de5eeaae2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/52971>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:01.045Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/34023>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#327c8327ee0d4f52b758a54592c9865de5eeaae2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#16c081497ecc24b3e4ccc5ad3236e6404fe895a9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/53317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:15.182Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/34027>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#16c081497ecc24b3e4ccc5ad3236e6404fe895a9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d83279c8972e596a39bd286ed628aa1f4e28d8d1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/120222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:19.945Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d83279c8972e596a39bd286ed628aa1f4e28d8d1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f89b1f6607c14f175df4dc20b2c3798749074d19> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/70740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:36.894Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f89b1f6607c14f175df4dc20b2c3798749074d19>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#df496aa8b689e5f674096ff5a7f7e840bee721b5> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/37321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:58.354Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/24134>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#df496aa8b689e5f674096ff5a7f7e840bee721b5>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4d89305bc3f664573ada003cd9fb780fdab33480> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/121011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:25.479Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnplein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4d89305bc3f664573ada003cd9fb780fdab33480>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#153e860e04f45b30a6c45ed11776938797f38e31> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/54452>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:28.363Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/34042>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#153e860e04f45b30a6c45ed11776938797f38e31>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d722730fce9f87f757817c9025f4691a06d1510e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/122197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:00.085Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d722730fce9f87f757817c9025f4691a06d1510e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7bed24d14e7481abc48a88d62617985d9f8154b1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/72357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:13.523Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning-Boudewijnlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44034>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7bed24d14e7481abc48a88d62617985d9f8154b1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6fff948e0b25f01259bc0491741397848ec57d5e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/122459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:02.474Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73042>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6fff948e0b25f01259bc0491741397848ec57d5e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bfe0e7d6708b5cac3e9d7de2b5df2789db011799> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/203943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:51.973Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:05:56+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasCorrectedToCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnplein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72043>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bfe0e7d6708b5cac3e9d7de2b5df2789db011799>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#84a65633be20a068d2ba43b7b02de74b482c4263> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/72804>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:55.497Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44043>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#84a65633be20a068d2ba43b7b02de74b482c4263>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a276e8f01b06630070688e8f344040f4ab59dd3b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:50.440Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "KONING BOUDEWIJNSQUARE"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a276e8f01b06630070688e8f344040f4ab59dd3b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3b7e19dcd5c8ab2e19bc2b45f9e089d993bf8d5b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/140119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:58.340Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnplein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/23099>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3b7e19dcd5c8ab2e19bc2b45f9e089d993bf8d5b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f3d677423cad0d0fbecfde180e59915dfe61fe33> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/57200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:19.365Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f3d677423cad0d0fbecfde180e59915dfe61fe33>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1e73a2a6a538df06c464d963550f879378d9e37d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/57431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:14.815Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1e73a2a6a538df06c464d963550f879378d9e37d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3d78e362300a68962679889ef46111cd791b9e8e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/57560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:45.970Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Koning Boudewijnlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3d78e362300a68962679889ef46111cd791b9e8e>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/koning+b.ttl> <https://w3id.org/tree#relation> _:df_1_16751.
+_:df_1_16751 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/koning+bo.ttl>;
+    <https://w3id.org/tree#value> "koning", "bo".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/koning+b.ttl>.

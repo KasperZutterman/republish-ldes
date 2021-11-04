@@ -388,3 +388,198 @@ _:df_1_22590 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+marais.ttl>;
     <https://w3id.org/tree#value> "rue", "du", "marais".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+marai.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f00e29b742272a518bfb01086e29294e4e8e0740> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/93846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:09.325Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56078>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f00e29b742272a518bfb01086e29294e4e8e0740>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#45e725250648f1b69371d77d1d02185b614ad2b3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/94055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:57.155Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56085>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#45e725250648f1b69371d77d1d02185b614ad2b3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4a2e10eca9ce476799025915dc3df15835fe58bf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/94789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:37.657Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "01";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4a2e10eca9ce476799025915dc3df15835fe58bf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4d10d90e8279739fb5cae2b63466575775664827> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/94789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:37.664Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "01";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4d10d90e8279739fb5cae2b63466575775664827>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3dd0805f6f5802b08fea7fcf2153a37a5666af7d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/94790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:38.246Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "02";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3dd0805f6f5802b08fea7fcf2153a37a5666af7d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a12e927f0bc774b3f3d18fda7832c7cb3b2d8d10> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/94790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:38.265Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "02";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a12e927f0bc774b3f3d18fda7832c7cb3b2d8d10>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fea2b5258c4f6721e719e8c63bb6f69520965db4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/95126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:56.470Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57027>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fea2b5258c4f6721e719e8c63bb6f69520965db4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9961aaf40267f29bb13ae66cba7b9a5ebe003047> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/95244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:45:20.969Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57062>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9961aaf40267f29bb13ae66cba7b9a5ebe003047>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2e2958f55a9ddfc779cced298165423dd6588d57> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/111808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:45:50.248Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/64034>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2e2958f55a9ddfc779cced298165423dd6588d57>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ee655e5f8e181dba538f90d3f6cbbd6dc208e0e2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/95441>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:46:07.790Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57064>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ee655e5f8e181dba538f90d3f6cbbd6dc208e0e2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a9e8ec4690bda6f32a096a33626a9bc14ca036d3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/79208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:03.848Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/51008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a9e8ec4690bda6f32a096a33626a9bc14ca036d3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#adaba82cc15076979a0c798ba5aad8cfaef9af52> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/129113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:06.666Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/85009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#adaba82cc15076979a0c798ba5aad8cfaef9af52>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2c7bc9b2ca5877cc61ec0cb2aaf8a63d4f99aebe> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/79388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:47.632Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/51009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2c7bc9b2ca5877cc61ec0cb2aaf8a63d4f99aebe>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f507ec6b976064921c05fa989a0c89895a1d9f00> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/112536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:52.552Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/64076>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f507ec6b976064921c05fa989a0c89895a1d9f00>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8914196517af987df967f6e0b155fffdfbbec565> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:49:49.913Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "01";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8914196517af987df967f6e0b155fffdfbbec565>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#12ee2104751b08f94ddb69f54fee116047880898> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:49:49.918Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "01";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#12ee2104751b08f94ddb69f54fee116047880898>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#481b5e796d440f1bb77512735f7c2ce6bcefc923> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96345>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:49:51.012Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "02";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#481b5e796d440f1bb77512735f7c2ce6bcefc923>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#370b927c853de4eafc44764c80602dcec3e921e1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96345>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:49:51.018Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "02";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#370b927c853de4eafc44764c80602dcec3e921e1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#47c8ccbc9ef8c4a1e3d883662df83b9af3660b33> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:49:51.111Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "03";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#47c8ccbc9ef8c4a1e3d883662df83b9af3660b33>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3510498d0e6b0cac6064624f39a883c76642b162> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:49:51.122Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Marais"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "03";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3510498d0e6b0cac6064624f39a883c76642b162>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+marai.ttl> <https://w3id.org/tree#relation> _:df_1_20742.
+_:df_1_20742 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+marais.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "marais".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+marai.ttl>.

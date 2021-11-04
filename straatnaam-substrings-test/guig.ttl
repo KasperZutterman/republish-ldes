@@ -36,3 +36,22 @@
     a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9e6be125534cc6fd976c0f6d30b5fe74e48a8296>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/guig.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5e5f1ed60e941d0011df4d7259abdcc2efb5f4fc> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/186890>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:05.075Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-08-24T07:08:32+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Guigovenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5e5f1ed60e941d0011df4d7259abdcc2efb5f4fc>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9e6be125534cc6fd976c0f6d30b5fe74e48a8296> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/211877>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:34:30.539Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-02-14T00:50:18+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Guigovenveld"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9e6be125534cc6fd976c0f6d30b5fe74e48a8296>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/guig.ttl>.

@@ -36,3 +36,22 @@
     a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f90b039bde89675d72efb8e2f68e4dae56a52027>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/vanm.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b06db103ff56b79c7251b7b89c661a0460fe8d89> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/57045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:42.197Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Vanmaerlantstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b06db103ff56b79c7251b7b89c661a0460fe8d89>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f90b039bde89675d72efb8e2f68e4dae56a52027> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/57045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:42.200Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-01-12T14:42:06+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Vanmaerlantstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f90b039bde89675d72efb8e2f68e4dae56a52027>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/vanm.ttl>.

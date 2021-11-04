@@ -376,3 +376,175 @@ _:df_1_23967 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+tieg.ttl>;
     <https://w3id.org/tree#value> "rue", "tieg".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+tie.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#83ffedfe36b6b0c60263429d2f1f5af7b3fd14ce> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:00.024Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Tiercelet de la Barrestraat"@nl, "Rue Tiercelet de la Barre"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#83ffedfe36b6b0c60263429d2f1f5af7b3fd14ce>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#01309b468c8b23e42b003d5cda19b36f07de6f33> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139041>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:58.337Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne-Wérichet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93056>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#01309b468c8b23e42b003d5cda19b36f07de6f33>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d5e58a5ce01d7af507832deed2fdc99027271357> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139453>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:33.743Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne du Moulin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93088>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d5e58a5ce01d7af507832deed2fdc99027271357>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a7ab92963817b4b1fbc4b938861677d7d0ee3346> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:34.202Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne Garçons"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93088>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a7ab92963817b4b1fbc4b938861677d7d0ee3346>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#02d44baebd3da424e2361ec11f9be0df83ccd154> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:20.461Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne-Breumont"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93090>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#02d44baebd3da424e2361ec11f9be0df83ccd154>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e47b6537eff967d521da03a331abcb86e41a0a47> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:19.249Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tierne á Tartes"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e47b6537eff967d521da03a331abcb86e41a0a47>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#26f898de0afb18fa1b452193fe76e329a872bc05> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:19.251Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-02T14:46:54+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tierne à Tartes"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#26f898de0afb18fa1b452193fe76e329a872bc05>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d191d7ad2d54115b45ca33257731a44615cfda19> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:20.135Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tierne du Bouillon"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d191d7ad2d54115b45ca33257731a44615cfda19>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b0c5748b746bf7cc5953c4ec2403d8c8fa140688> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:20.334Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tierne Bourgeois"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b0c5748b746bf7cc5953c4ec2403d8c8fa140688>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#94988d5a2d8f44c9f7595859f1e8a91341899c5b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:17.113Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne-á-Deux-Vallées"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25072>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#94988d5a2d8f44c9f7595859f1e8a91341899c5b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#119618ac2ff1ccc7e18d957fb2f96ddbafb1e956> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:17.119Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-02T14:46:41+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne-à-Deux-Vallées"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25072>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#119618ac2ff1ccc7e18d957fb2f96ddbafb1e956>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#68d8faa28a228ae13de1e22146c45072a0bd264a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/125259>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:33:26.367Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tiennemesse"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/82032>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#68d8faa28a228ae13de1e22146c45072a0bd264a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2a3faa10ab7795eafe4fe375facf989399b0015b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/42717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:33.901Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne-Galop"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25117>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2a3faa10ab7795eafe4fe375facf989399b0015b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5e95e912780ba90a3b24b38cbae740053c2a9d19> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/43073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:38:48.972Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne Saint-Roch"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25119>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5e95e912780ba90a3b24b38cbae740053c2a9d19>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9428f6bd9b6be1b5a14d3c9beeeeb095862ae8a9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/43268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:34.223Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tiège de Perwez"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25120>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9428f6bd9b6be1b5a14d3c9beeeeb095862ae8a9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#588b8cdf7a1b36182efc7d289f0abd0977a397b1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/145329>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:41:34.672Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne de Faulx"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93088>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#588b8cdf7a1b36182efc7d289f0abd0977a397b1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#549dab708aa66496bfda2f9bff7f798588e00f35> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96569>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:50:43.296Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tiefry"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#549dab708aa66496bfda2f9bff7f798588e00f35>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#284f53840e6f7889e606275bff75dc9faaf3f140> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/130283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:52:44.854Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne-de-Faux"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/91005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#284f53840e6f7889e606275bff75dc9faaf3f140>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bf9a694f94e0dd3d9799c5aefae878c77cb02bd8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/130284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:52:44.967Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Tienne-Piot"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/91005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bf9a694f94e0dd3d9799c5aefae878c77cb02bd8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+tie.ttl>.

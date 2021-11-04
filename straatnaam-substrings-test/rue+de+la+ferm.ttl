@@ -368,3 +368,188 @@ _:df_1_22730 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+ferme.ttl>;
     <https://w3id.org/tree#value> "rue", "de", "la", "ferme".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+ferm.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#da6f996cdc25fde546e3afb6a0f22259e734cdc1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/74906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:32.577Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Hof Merrystraat"@nl, "Rue de la ferme Merry"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#da6f996cdc25fde546e3afb6a0f22259e734cdc1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fcd0b8e562eb328c65583bde6083cdcfdc1660f4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/74906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:32.586Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:00:37+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Hof Merrystraat"@nl, "Rue de la ferme Merry"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fcd0b8e562eb328c65583bde6083cdcfdc1660f4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2671e094ad8ea4d577a5ed1590454eb60f8060e6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/41253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:50.697Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme Rose"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25105>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2671e094ad8ea4d577a5ed1590454eb60f8060e6>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#367fc7155522d8f300da929fbb2028811e5a4a38> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/91854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:33.589Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#367fc7155522d8f300da929fbb2028811e5a4a38>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dfe9767efd3a97e6aaaa3b889e8b1bc2be637ec1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/92110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:33:32.609Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme Isaac"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dfe9767efd3a97e6aaaa3b889e8b1bc2be637ec1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bfbd3fd59c334ef0ed36cd1800d07de867e2bb0e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/143170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:34:31.507Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme du Bois"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92114>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bfbd3fd59c334ef0ed36cd1800d07de867e2bb0e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2966fccaa619a20eb5dfbad077b794a5da2034a6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/143175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:34:36.131Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme de Courriaulx"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52055>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2966fccaa619a20eb5dfbad077b794a5da2034a6>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9361e92c63350ce96f6bad15adb168890ce1d079> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/143184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:34:40.249Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme Hédiart"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52043>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9361e92c63350ce96f6bad15adb168890ce1d079>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4bc62729acdc77d8a63e45634be7727b4bb9de8e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/125936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:35:53.079Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/83028>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4bc62729acdc77d8a63e45634be7727b4bb9de8e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b0c51b3b24e1d1ec1eeddf6c636c67d039ae9155> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/126272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:08.986Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/83034>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b0c51b3b24e1d1ec1eeddf6c636c67d039ae9155>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5302256b8d75d4120ff2f5036f4613310d053c5d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/93167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:33.460Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme de Septannes"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5302256b8d75d4120ff2f5036f4613310d053c5d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0a5839f87c93def1548b0b5f23cdb31fd32e4d8a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/93168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:33.925Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme Lambotte"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0a5839f87c93def1548b0b5f23cdb31fd32e4d8a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#04bcfe020b958172891268df3d2e566ac2eff908> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/93757>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:48.206Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme de la Folie"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56078>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#04bcfe020b958172891268df3d2e566ac2eff908>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#eed7f14fc05b578453b93a6a8a87208c245a5818> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/144636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:57.905Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme de l'Abbaye"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/61043>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#eed7f14fc05b578453b93a6a8a87208c245a5818>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d595258bf5170ef80288c495139aed7ad7c74dee> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/145195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:41:06.740Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme du Fency"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/85039>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d595258bf5170ef80288c495139aed7ad7c74dee>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f1896b4562af76643d06e4cb7f96cffbb2e7f08a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/145268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:41:17.369Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme de Breuze"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f1896b4562af76643d06e4cb7f96cffbb2e7f08a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6302f77fb86c8c14aacf467921ee849d4855a03a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/94727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:23.818Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6302f77fb86c8c14aacf467921ee849d4855a03a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7d63f03324ef8c5702ee2bc765827762de248c93> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/145980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:44.179Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme des Bruyères"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25121>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7d63f03324ef8c5702ee2bc765827762de248c93>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fa70d2a865a3a901e3cf686e4e31a4d5dce8a584> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/146639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:45:54.293Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme de Bel Air(V)"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/91064>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fa70d2a865a3a901e3cf686e4e31a4d5dce8a584>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8d59e3fab7c8d45d5ad1d12fb382539c2e0f4d86> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/95914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:10.576Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Ferme de Beauregard"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8d59e3fab7c8d45d5ad1d12fb382539c2e0f4d86>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+ferm.ttl> <https://w3id.org/tree#relation> _:df_1_20832.
+_:df_1_20832 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+ferme.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "la", "ferme".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+ferm.ttl>.

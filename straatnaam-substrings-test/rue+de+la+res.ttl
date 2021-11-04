@@ -404,3 +404,206 @@ _:df_1_21835 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#value> "rue", "de", "la", "rese".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#069da349fe435a2459185ffb3b49037f5e4ec516> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21146>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:17.177Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Weerstandstraat"@nl, "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21006>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#069da349fe435a2459185ffb3b49037f5e4ec516>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#794ed3f6d240a82b15838dbac9f80a23e926aa70> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:57.346Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62099>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#794ed3f6d240a82b15838dbac9f80a23e926aa70>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#76941e9920642652fcd73cf29430bacc45284735> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:03.055Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62108>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#76941e9920642652fcd73cf29430bacc45284735>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a226ba08175f944214f667f2840aab06504eb004> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:45.253Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Verzetsstraat"@nl, "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a226ba08175f944214f667f2840aab06504eb004>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#39f64cfe676ee780c7470c32dc6a8905c46630ed> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:19.632Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25023>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#39f64cfe676ee780c7470c32dc6a8905c46630ed>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c1385be30670d9f24a49b6616e0d46a8a2f66874> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:45.933Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Weerstandstraat"@nl, "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c1385be30670d9f24a49b6616e0d46a8a2f66874>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#13c9eb1fbfd4e1b8c2b414d47121eedd7742a02e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/106408>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:38.948Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62120>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#13c9eb1fbfd4e1b8c2b414d47121eedd7742a02e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#52814134838b318f39e2e64e38530ae04beb4c99> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90157>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:25.927Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#52814134838b318f39e2e64e38530ae04beb4c99>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#60539260d5fa14221038454b6966784cfc52f244> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/106874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:34.225Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62122>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#60539260d5fa14221038454b6966784cfc52f244>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ad7e4315b0223aababbd4cbbdbdb8fc30b9a45f8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/124558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:28.724Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/81004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ad7e4315b0223aababbd4cbbdbdb8fc30b9a45f8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fa3f0f1dbe0eecb038c9d3e0f9313d0cac0ea1ef> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:22.200Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Weerstandstraat"@nl, "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fa3f0f1dbe0eecb038c9d3e0f9313d0cac0ea1ef>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#58d9af2a1358989f499118631b6da38749dd7794> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:22.239Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:01:03+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Weerstandstraat"@nl, "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#58d9af2a1358989f499118631b6da38749dd7794>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#81cd9a2e5e01a2c33b92e160a8a10ab452738bc8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/91861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:39.113Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#81cd9a2e5e01a2c33b92e160a8a10ab452738bc8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3e18b3858ff7709a59f8d4c6cc2abbfc11dea0fa> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/92426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:34:40.234Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3e18b3858ff7709a59f8d4c6cc2abbfc11dea0fa>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7c5ab0f4967a669620b2f11603a0c11f1c5ebbcd> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/109904>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:38:36.301Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63076>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7c5ab0f4967a669620b2f11603a0c11f1c5ebbcd>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b148b0a42a26cf918f48fd5e2c0a90bc5fa93c46> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/126683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:38:41.273Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/83044>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b148b0a42a26cf918f48fd5e2c0a90bc5fa93c46>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#06c97321b1ce4d32fcfd5d2c7dfa30b58807e848> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/110241>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:57.778Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63079>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#06c97321b1ce4d32fcfd5d2c7dfa30b58807e848>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7c585e8332078572d129e7973ae48b795417f752> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/110789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:42:04.386Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63084>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7c585e8332078572d129e7973ae48b795417f752>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c41ca43d84e0225c1a87470a66b9d2d395f87084> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/94406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:42:21.641Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56087>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c41ca43d84e0225c1a87470a66b9d2d395f87084>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fad643ac13c201f6691cb82f0b31f29308bb48ad> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/128251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:45.945Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Résistance"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/84050>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fad643ac13c201f6691cb82f0b31f29308bb48ad>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#20b9aaec679b0d0bdabf90114f4d69e2deead7dc> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/96053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:48:42.805Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de la Rés. Pic au Vent"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/57081>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#20b9aaec679b0d0bdabf90114f4d69e2deead7dc>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl> <https://w3id.org/tree#relation> _:df_1_20200.
+_:df_1_20200 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+resi.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "la", "resi".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl> <https://w3id.org/tree#relation> _:df_1_20201.
+_:df_1_20201 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "la", "res.".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl> <https://w3id.org/tree#relation> _:df_1_20202.
+_:df_1_20202 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+rese.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "la", "rese".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+la+res.ttl>.

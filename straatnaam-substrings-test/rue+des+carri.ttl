@@ -384,3 +384,102 @@ _:df_1_24581 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+des+carrie.ttl>;
     <https://w3id.org/tree#value> "rue", "des", "carrie".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+des+carri.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0db1f55f38551e4144de7e8ec2c45652fcebd01f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/130409>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:53:11.161Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/91013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0db1f55f38551e4144de7e8ec2c45652fcebd01f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bde44b34a23b8c4098c25dedca6dfaeba20ad024> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81186>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:38.939Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "01";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bde44b34a23b8c4098c25dedca6dfaeba20ad024>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#afa3237729659f5d4a5714098805f3bdfd812632> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81186>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:38.957Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "01";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#afa3237729659f5d4a5714098805f3bdfd812632>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#692d0144484c55fe55c2f91c0bdd7d6900508363> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:39.039Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "02";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#692d0144484c55fe55c2f91c0bdd7d6900508363>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1f1095f60694063a857ebb048ae4baf88f374d0e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:39.048Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "02";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1f1095f60694063a857ebb048ae4baf88f374d0e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#77b9784de852bcafadc8b7626de2c0cad149286c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:39.250Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "03";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#77b9784de852bcafadc8b7626de2c0cad149286c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cb4f7d1d04eadf1422aa6bf69ea57a8b399c9ada> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:39.257Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "03";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cb4f7d1d04eadf1422aa6bf69ea57a8b399c9ada>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c079317309f03b79fa9b96500b837f81dd6d0622> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:40.596Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "04";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c079317309f03b79fa9b96500b837f81dd6d0622>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#32a0bcaeed27311d8b5ab983a8d55d1c8d515918> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/81189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:40.870Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.homoniemToevoeging> "04";
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#32a0bcaeed27311d8b5ab983a8d55d1c8d515918>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#82d830d7a903bf9cb69231532f52835f8bb54b0e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/97936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:55:56.594Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue des Carrières Sottiaux"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/61028>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#82d830d7a903bf9cb69231532f52835f8bb54b0e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+des+carri.ttl>.

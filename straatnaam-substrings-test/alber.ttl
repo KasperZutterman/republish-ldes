@@ -376,3 +376,192 @@ _:df_1_8985 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/alberi.ttl>;
     <https://w3id.org/tree#value> "alberi".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/alber.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#81332e0bf605214f88324eaad1f90ff65f630597> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/68946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:51:25.473Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albertus Stalslaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#81332e0bf605214f88324eaad1f90ff65f630597>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b77cd06aeb752725901ccf4bb583c6e682e305e4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/68946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:51:25.503Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-11-18T10:45:38+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albertus Stalslaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b77cd06aeb752725901ccf4bb583c6e682e305e4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dcf7e192eab74177420a00b2813757ae379f656a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/118773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:51:26.143Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Claessensweg"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dcf7e192eab74177420a00b2813757ae379f656a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1598eb5500b0be0690b0e5ef37aba5bee80fc42f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/18627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:04.252Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert De Costerlaan"@nl, "Avenue Albert De Coster"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1598eb5500b0be0690b0e5ef37aba5bee80fc42f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#07faaa4a61e6df373b64da1adbe24783d4b1dd2e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/18628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:04.376Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert I-Square"@nl, "Square Albert Ier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#07faaa4a61e6df373b64da1adbe24783d4b1dd2e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#62a633257166308fb3ad462db991f0ab6b2cf94b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/69338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:01.478Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Moreelsstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#62a633257166308fb3ad462db991f0ab6b2cf94b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e7a172f8620a2da8a39eb67ee8c7d7810bf251da> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/69559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:02.455Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert De Smetstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e7a172f8620a2da8a39eb67ee8c7d7810bf251da>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7357871893d0a300d5926f21ca4a9863546bff5b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/69560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:03.899Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Schweitzerstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7357871893d0a300d5926f21ca4a9863546bff5b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#59a3e5c82ed719b4e693f512c7c9d1f8bcd5b60d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/69560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:03.901Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-10-03T14:58:08+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Schweitzerstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#59a3e5c82ed719b4e693f512c7c9d1f8bcd5b60d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5b31b1dfb0c937917d59007ebf16d08e384356ec> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/69558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:06.959Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Baertsoenkaai"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5b31b1dfb0c937917d59007ebf16d08e384356ec>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7268f5d33c008fd85aeafe8d053f3b4205791dd7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/119380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:09.592Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Quintinlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7268f5d33c008fd85aeafe8d053f3b4205791dd7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4cac8084548b5f8139b3c4f9d209beab156e03b8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/119380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:09.598Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2015-05-04T08:36:31+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Quintinlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4cac8084548b5f8139b3c4f9d209beab156e03b8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fe4f6a7e6d19690716d3e33359708bcf118725a3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/119380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:09.600Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:08:20+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Quintinlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fe4f6a7e6d19690716d3e33359708bcf118725a3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#24545e8d2ba2d22b56942618f5bcad7641aeb06e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:09.738Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Kringsstraat"@nl, "Rue Albert Krings"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#24545e8d2ba2d22b56942618f5bcad7641aeb06e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3c3dd5d1a8e8ae6e53412ad204b099159cd8844a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:11.140Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Meunierstraat"@nl, "Rue Albert Meunier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3c3dd5d1a8e8ae6e53412ad204b099159cd8844a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#acdbd9f4385bd6313cb6ebfef82b93e818481bf5> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/185611>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:27.614Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-04-01T15:17:10+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Bruggemanwegel"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/46021>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#acdbd9f4385bd6313cb6ebfef82b93e818481bf5>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a185c188218c43b8f951a77a4b08aae3d8d5bb19> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/119616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:03.545Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albertus Morrenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72030>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a185c188218c43b8f951a77a4b08aae3d8d5bb19>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c5396c76b60ddc1599bd32b75c76436d25daa56c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/36184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:27.931Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albertlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/24104>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c5396c76b60ddc1599bd32b75c76436d25daa56c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6b05db93deafb38b02180f1435db26a79cee2e77> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:42.963Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert Brachetlaan"@nl, "Avenue Albert Brachet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6b05db93deafb38b02180f1435db26a79cee2e77>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c568ee6e98d56c7905e22ec09ce16b17755136d6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:45.402Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Albert De Meyerstraat"@nl, "Rue Albert De Meyer"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c568ee6e98d56c7905e22ec09ce16b17755136d6>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/alber.ttl> <https://w3id.org/tree#relation> _:df_1_8647.
+_:df_1_8647 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/albert.ttl>;
+    <https://w3id.org/tree#value> "albert".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/alber.ttl> <https://w3id.org/tree#relation> _:df_1_8648.
+_:df_1_8648 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/alberi.ttl>;
+    <https://w3id.org/tree#value> "alberi".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/alber.ttl>.

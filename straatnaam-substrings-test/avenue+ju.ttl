@@ -384,3 +384,196 @@ _:df_1_18665 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+jun.ttl>;
     <https://w3id.org/tree#value> "avenue", "jun".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ju.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8c7f83f55a2270792d2b4826b4814c2de90d55c7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:39.491Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Génicotlaan"@nl, "Avenue Jules Génicot"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8c7f83f55a2270792d2b4826b4814c2de90d55c7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8179dc5a5dc6d969c735cb29b57dcb206dbe7c69> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:39.684Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Vandeleenelaan"@nl, "Avenue Jules Vandeleene"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8179dc5a5dc6d969c735cb29b57dcb206dbe7c69>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d39e1f198f669a676e49f06cf9de6eb50416ebe0> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:38.304Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Bordetlaan"@nl, "Avenue Jules Bordet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d39e1f198f669a676e49f06cf9de6eb50416ebe0>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c673dd8e73335372a931a11f9b5bea6cb9b4f2a4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:07.289Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Jules-Bruyr"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92142>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c673dd8e73335372a931a11f9b5bea6cb9b4f2a4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#54d11516d9bd7c96f779bf1582b9f56cf1cf4294> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:16.485Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Maloulaan"@nl, "Avenue Jules Malou"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#54d11516d9bd7c96f779bf1582b9f56cf1cf4294>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3193a1f884dce61b9c11981c3c7e095ef4a96cda> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:59.662Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Bordetlaan"@nl, "Avenue Jules Bordet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21006>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3193a1f884dce61b9c11981c3c7e095ef4a96cda>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#07c5187152ae531bd79fe95e63074c7ee5184ae4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21241>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:38.628Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jupiterlaan"@nl, "Avenue Jupiter"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#07c5187152ae531bd79fe95e63074c7ee5184ae4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#628f3fc26d218cd957eb10a8fdbcd377b86aff2a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:43.560Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Jules-Lahaye"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#628f3fc26d218cd957eb10a8fdbcd377b86aff2a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#232de04d67d36be34ff6462ce0c7b9035cd54723> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:39.237Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Julien Hanssenslaan"@nl, "Avenue Julien Hanssens"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21012>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#232de04d67d36be34ff6462ce0c7b9035cd54723>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fbbe6b4bbf0b0b80d3f47b98d9bdba8d724e7b84> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:14.323Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Carlierlaan"@nl, "Avenue Jules Carlier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fbbe6b4bbf0b0b80d3f47b98d9bdba8d724e7b84>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7fb15829dd6ccf940ecf8a89484e768fda06398e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:49.824Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Jules Gathy"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25037>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7fb15829dd6ccf940ecf8a89484e768fda06398e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#087f9c25feb29f61636eac53fcc7a65111182273> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23176>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:09.361Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Juliettelaan"@nl, "Avenue Juliette"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#087f9c25feb29f61636eac53fcc7a65111182273>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e1f44b0545593a744ac211a7f382e782f3cda5aa> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40152>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:10.291Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Justice Broquet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25050>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e1f44b0545593a744ac211a7f382e782f3cda5aa>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a2461020ab8c4bb15664c9b699c5c32995767963> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:03.655Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Jules-Mathieu"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25072>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a2461020ab8c4bb15664c9b699c5c32995767963>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cef64235d2923b5d4681f7b512ffd439e96188ff> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:36.970Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Julius Caesarlaan"@nl, "Avenue Jules César"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cef64235d2923b5d4681f7b512ffd439e96188ff>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1f7eb13996d03034afb0f0c176e24f64082d9c7a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:43.029Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules de Troozlaan"@nl, "Avenue Jules de Trooz"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1f7eb13996d03034afb0f0c176e24f64082d9c7a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d94d5b624183d41b0d33406cc235048c03b905be> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:43.806Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Du Jardinlaan"@nl, "Avenue Jules Du Jardin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d94d5b624183d41b0d33406cc235048c03b905be>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e87017781d100830ad450039cfed2bee2dc5d992> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/41174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:29.957Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Julien Maréchal"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25105>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e87017781d100830ad450039cfed2bee2dc5d992>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8b26e1fb4ed724f15b1c759057b2d8342bd577f9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/74931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:39.703Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Bordetlaan"@nl, "Avenue Jules Bordet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8b26e1fb4ed724f15b1c759057b2d8342bd577f9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7fd197d37d901d763bf755c0623e62b6dfdd2e5e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/74931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:39.712Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:00:41+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Bordetlaan"@nl, "Avenue Jules Bordet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7fd197d37d901d763bf755c0623e62b6dfdd2e5e>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ju.ttl> <https://w3id.org/tree#relation> _:df_1_17580.
+_:df_1_17580 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+jul.ttl>;
+    <https://w3id.org/tree#value> "avenue", "jul".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ju.ttl> <https://w3id.org/tree#relation> _:df_1_17581.
+_:df_1_17581 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+jup.ttl>;
+    <https://w3id.org/tree#value> "avenue", "jup".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ju.ttl> <https://w3id.org/tree#relation> _:df_1_17582.
+_:df_1_17582 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+jun.ttl>;
+    <https://w3id.org/tree#value> "avenue", "jun".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ju.ttl>.

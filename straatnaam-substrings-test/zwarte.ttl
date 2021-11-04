@@ -504,3 +504,228 @@ _:df_1_21744 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarteh.ttl>;
     <https://w3id.org/tree#value> "zwarteh".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ea8dd90e11bb5ec1e5b38fa3e5d269be1276c1ac> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:26.316Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-04-09T18:25:34+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrectedToCleared";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwartezustersstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ea8dd90e11bb5ec1e5b38fa3e5d269be1276c1ac>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#29663b94c5bc607fbef3b22f56f47674fa76a7df> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:26.319Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:01:05+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwartezustersstraat"@nl, "Rue des Soeurs-Noires"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#29663b94c5bc607fbef3b22f56f47674fa76a7df>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c5f051a9bfae3e9d297dc05e844d95e07fd7a9a8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/8190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:33:17.908Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Dreef"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11054>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c5f051a9bfae3e9d297dc05e844d95e07fd7a9a8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3e81628fe70bc7ae8095ca799df8bc0872474d50> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/58436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:33:19.229Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte-Leeuwstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3e81628fe70bc7ae8095ca799df8bc0872474d50>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e32775d406919b02da40fcb8ea96f879fcf27656> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/143480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:35:41.039Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Zustersstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/41002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e32775d406919b02da40fcb8ea96f879fcf27656>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f111a8a5ccdd10a1bd588b9ef052a06b0ce50c5d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/9176>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:05.197Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Leeuwstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/12005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f111a8a5ccdd10a1bd588b9ef052a06b0ce50c5d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2071db27c638e07c8dd70b43379f470fa8771334> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/59535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:37:34.162Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwartegevelstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/37015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2071db27c638e07c8dd70b43379f470fa8771334>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e9498a5c8042a0dc2944bf8420905ea9dfcafdf9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/76717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:38:26.047Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Dreef"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/46003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e9498a5c8042a0dc2944bf8420905ea9dfcafdf9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#04b04897524e79912717cca8022730399b720b13> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/26003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:38:50.064Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Vijver"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/23025>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#04b04897524e79912717cca8022730399b720b13>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6b3959960803e110959a20bb6654a71f8e8ad3dd> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/60086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:32.921Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarteleeuwstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/37020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6b3959960803e110959a20bb6654a71f8e8ad3dd>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0806fc4f542ca7314fef4ce902fb490fec01f983> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/60382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:41.671Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwartenhoek"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/38008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0806fc4f542ca7314fef4ce902fb490fec01f983>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7ab3b062871a3861959f921c7f69ff3d95d70183> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/60383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:49.469Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwartenhoekstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/38008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7ab3b062871a3861959f921c7f69ff3d95d70183>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9ddf1ed05e2df5d0b961b4abf4549cfd56b05c49> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/122132>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:43:00.718Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Weg"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73032>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9ddf1ed05e2df5d0b961b4abf4549cfd56b05c49>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1a37119e1653e7f28421fc825fb58f211627e87c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/78183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:06.182Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Heistraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/46024>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1a37119e1653e7f28421fc825fb58f211627e87c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#17563cc4b744d4ac4d6713ffde777debf139d764> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/146167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:22.475Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Dennenpad"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#17563cc4b744d4ac4d6713ffde777debf139d764>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b2a367b7c6910f58e05fad486a47c27a4edbb465> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/146167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:22.482Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2015-12-01T14:43:12+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Dennenpad"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b2a367b7c6910f58e05fad486a47c27a4edbb465>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d894abdd2f58165e2cb0d20d6d9901c81e59ec7d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/61446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:41.531Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Nonnenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/38025>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d894abdd2f58165e2cb0d20d6d9901c81e59ec7d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e37bd388e558292764a9f9ccb2c800bfbd97aed3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/146381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:56.581Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Dennendreef"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e37bd388e558292764a9f9ccb2c800bfbd97aed3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1d0356781a8f64237a0052b005cfb2043a1645d8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/146381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:44:56.587Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2015-12-01T14:43:03+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Dennendreef"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1d0356781a8f64237a0052b005cfb2043a1645d8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e97f3236bc0e5a81347f144e9595464e34fbdac0> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/146529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:45:28.240Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Zwarte Sleutelstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/24066>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e97f3236bc0e5a81347f144e9595464e34fbdac0>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20122.
+_:df_1_20122 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte+l.ttl>;
+    <https://w3id.org/tree#value> "zwarte", "l".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20123.
+_:df_1_20123 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte+g.ttl>;
+    <https://w3id.org/tree#value> "zwarte", "g".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20124.
+_:df_1_20124 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarteb.ttl>;
+    <https://w3id.org/tree#value> "zwarteb".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20125.
+_:df_1_20125 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte+m.ttl>;
+    <https://w3id.org/tree#value> "zwarte", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20126.
+_:df_1_20126 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte+b.ttl>;
+    <https://w3id.org/tree#value> "zwarte", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20127.
+_:df_1_20127 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarteg.ttl>;
+    <https://w3id.org/tree#value> "zwarteg".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20128.
+_:df_1_20128 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwartel.ttl>;
+    <https://w3id.org/tree#value> "zwartel".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20129.
+_:df_1_20129 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte+s.ttl>;
+    <https://w3id.org/tree#value> "zwarte", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20130.
+_:df_1_20130 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte+d.ttl>;
+    <https://w3id.org/tree#value> "zwarte", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20131.
+_:df_1_20131 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte+w.ttl>;
+    <https://w3id.org/tree#value> "zwarte", "w".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl> <https://w3id.org/tree#relation> _:df_1_20132.
+_:df_1_20132 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwartes.ttl>;
+    <https://w3id.org/tree#value> "zwartes".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/zwarte.ttl>.

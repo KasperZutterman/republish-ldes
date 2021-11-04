@@ -416,3 +416,208 @@ _:df_1_15936 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lhon.ttl>;
     <https://w3id.org/tree#value> "rue", "de", "lhon".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a8437ef5165f2db0a38e339e3d13a8bd00226907> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:15.285Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôtel de Ville"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92137>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a8437ef5165f2db0a38e339e3d13a8bd00226907>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#621c9d0c21f059efd1a377e3373b14c33fe905d2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:45.115Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kerstenmannekensstraat"@nl, "Rue de l'Homme Chrétien"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#621c9d0c21f059efd1a377e3373b14c33fe905d2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#03e191770ea44763bbebc8c7fb6df7bc7cfdac6a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:56.859Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hospice"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92140>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#03e191770ea44763bbebc8c7fb6df7bc7cfdac6a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e6d5dd38a90eb727a75a6467f073bc2bfd002d07> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:56.956Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôtel-de-Ville"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92140>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e6d5dd38a90eb727a75a6467f073bc2bfd002d07>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8b72c87503a182ab1109bec0c6c279609d9eabeb> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/87700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:40.256Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôpital"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53070>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8b72c87503a182ab1109bec0c6c279609d9eabeb>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a525a77f4fd767914bc9a5cde397c26820cc788a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/87701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:41.850Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôtel de Ville"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53070>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a525a77f4fd767914bc9a5cde397c26820cc788a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c338d067cdea02df5fc22343e0565b29fd303100> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:42.854Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôpital"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92141>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c338d067cdea02df5fc22343e0565b29fd303100>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#86f773eaaf129cb67f7a1d7066ffb7cebe7c37ab> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/104192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:44.426Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôtel Communal"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62093>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#86f773eaaf129cb67f7a1d7066ffb7cebe7c37ab>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a000687701d0b7b20aa8397da0428f8f36f6fbd4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/104555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:14.104Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôpital"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62096>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a000687701d0b7b20aa8397da0428f8f36f6fbd4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d5e1dad1c30a4a87b00e9badf8a7515b71eb2cad> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/54633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:16.392Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Godshuisstraat"@nl, "Rue de l'Hospice"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/34043>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d5e1dad1c30a4a87b00e9badf8a7515b71eb2cad>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#785ecacde6f1c4c5036b9b54a6f6cc4feae4c19b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:35.991Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôpital"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#785ecacde6f1c4c5036b9b54a6f6cc4feae4c19b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1f58b2c5026cc45a0836274b74f44cefbf182d1e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:49.629Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Godshuisstraat"@nl, "Rue de l'Hospice"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1f58b2c5026cc45a0836274b74f44cefbf182d1e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#327a0eb3ab81d84e9344261c774f0e1be64e7380> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:50.978Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Hostel des Haiesstraat"@nl, "Rue de l'Hostel des Haies"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#327a0eb3ab81d84e9344261c774f0e1be64e7380>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#85559ee77c112cec0fefd9669ca01381a0661718> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:59.411Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hotel de Ville"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62100>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#85559ee77c112cec0fefd9669ca01381a0661718>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#48b2552d8c4f05573810b1129afc7ba98d714b1b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138912>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:24.972Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôpital"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93056>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#48b2552d8c4f05573810b1129afc7ba98d714b1b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c8e2827ba77cb71777969bc6b4724789f660d5c4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:26.051Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hospiteaux"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93056>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c8e2827ba77cb71777969bc6b4724789f660d5c4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d5ae126832fa3422670bf5a34c02bd58908c111a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:10.767Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôtel Communal"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62118>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d5ae126832fa3422670bf5a34c02bd58908c111a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#81ff5aaeb5f11f54ffed38e608973b8170d1bd81> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:45.063Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôtel"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#81ff5aaeb5f11f54ffed38e608973b8170d1bd81>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#07cd335fa2e3d6cdd55cc49bc884e7b1c0a65663> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:56.549Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Munthofstraat"@nl, "Rue de l'Hôtel des Monnaies"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#07cd335fa2e3d6cdd55cc49bc884e7b1c0a65663>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cd4ef3c78b82c4dfa9330147f269132d6102114e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:31.306Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue de l'Hôtel de Ville"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cd4ef3c78b82c4dfa9330147f269132d6102114e>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl> <https://w3id.org/tree#relation> _:df_1_15125.
+_:df_1_15125 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lhos.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "lhos".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl> <https://w3id.org/tree#relation> _:df_1_15126.
+_:df_1_15126 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lhop.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "lhop".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl> <https://w3id.org/tree#relation> _:df_1_15127.
+_:df_1_15127 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lhot.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "lhot".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl> <https://w3id.org/tree#relation> _:df_1_15128.
+_:df_1_15128 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lhor.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "lhor".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl> <https://w3id.org/tree#relation> _:df_1_15129.
+_:df_1_15129 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lhoc.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "lhoc".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl> <https://w3id.org/tree#relation> _:df_1_15130.
+_:df_1_15130 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lhom.ttl>;
+    <https://w3id.org/tree#value> "rue", "de", "lhom".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+de+lho.ttl>.

@@ -408,3 +408,208 @@ _:df_1_16829 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+gu.ttl>;
     <https://w3id.org/tree#value> "avenue", "du", "gu".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#017d752726218d9f86f842b000ba935665547f89> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/86195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:50.090Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Général de Gaulle"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53053>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#017d752726218d9f86f842b000ba935665547f89>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#630b85af6a761ae02b0ceea64042211e6d7b1d0d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19330>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:58.028Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Voornlaan"@nl, "Avenue du Gardon"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#630b85af6a761ae02b0ceea64042211e6d7b1d0d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#117628f496e39b0e8352369174c374ef87be144f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:05.424Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Woudmeesterlaan"@nl, "Avenue du Grand Forestier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#117628f496e39b0e8352369174c374ef87be144f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#45fd24a97c5a5560665a31ff437324229d9819eb> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:29.112Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Grand Verger"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92101>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#45fd24a97c5a5560665a31ff437324229d9819eb>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2a0c038ebc3475e6bee126306b1328facaf40580> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:15.405Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Burgerlijke bouwkundelaan"@nl, "Avenue du Génie Civil"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2a0c038ebc3475e6bee126306b1328facaf40580>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#364df8653eba65071f3a3eb1c5acb4c32c69dd76> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:46.137Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Dikkelindelaan"@nl, "Avenue du Gros Tilleul"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#364df8653eba65071f3a3eb1c5acb4c32c69dd76>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#24cd0361b0009ffc8f7829cd0a762ba8ef17c8fd> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:01.719Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Generaal de Ceunincklaan"@nl, "Avenue du Général de Ceuninck"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#24cd0361b0009ffc8f7829cd0a762ba8ef17c8fd>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#312a7c102ecc694c68d72d973d2e884640544ce9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/87594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:11.623Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Grand Air"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53070>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#312a7c102ecc694c68d72d973d2e884640544ce9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9ecb38d55cee1c5da5c18f40a9665fc96ef04b39> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/104350>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:28.287Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Gerbier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62096>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9ecb38d55cee1c5da5c18f40a9665fc96ef04b39>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#152ad530d4dc6950f7e5dd031cc0609707f7e198> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:52.382Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Galgelaan"@nl, "Avenue du Gibet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21006>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#152ad530d4dc6950f7e5dd031cc0609707f7e198>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4392362c03a515a8d271556883af7e5e3f923c38> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:52.703Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Golflaan"@nl, "Avenue du Golf"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21006>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4392362c03a515a8d271556883af7e5e3f923c38>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#edfe9ee4b2ca7ed0c950e5e62bbbb9bc2dbc9e4e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:33.543Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Globelaan"@nl, "Avenue du Globe"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#edfe9ee4b2ca7ed0c950e5e62bbbb9bc2dbc9e4e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e235c7a245a5fa831e1284cc573eb3621c3c7d8e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:01.617Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Generaal de Gaullelaan"@nl, "Avenue du Général de Gaulle"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e235c7a245a5fa831e1284cc573eb3621c3c7d8e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#96cf4cdbda0778731699da31df9ad99d1af6c850> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:15.349Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Grand Pré"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#96cf4cdbda0778731699da31df9ad99d1af6c850>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#322ec8f2ad8b8705afd51a00cda0b85d48b92563> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:08.227Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Griffon"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#322ec8f2ad8b8705afd51a00cda0b85d48b92563>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6f9da7ccd7d7b65f40cd8bb9f431fe170b194c94> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39039>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:40.804Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Galet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25031>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6f9da7ccd7d7b65f40cd8bb9f431fe170b194c94>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7fc859fd5ccfa1449b87e8411537504d4cb0fbe6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/106264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:08.055Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Gros Chêne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62120>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7fc859fd5ccfa1449b87e8411537504d4cb0fbe6>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2c686b10e4e3ddf4e8d31192a5df0e81d100b668> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:46.509Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Globelaan"@nl, "Avenue du Globe"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2c686b10e4e3ddf4e8d31192a5df0e81d100b668>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ff845507b87e9f963de362f354e6b93d7389fedf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:07.944Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue du Gris Moulin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25050>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ff845507b87e9f963de362f354e6b93d7389fedf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3ad744d8c6506347654fd4d56d507ec6c424749b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:11.430Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Maretaklaan"@nl, "Avenue du Gui"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3ad744d8c6506347654fd4d56d507ec6c424749b>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl> <https://w3id.org/tree#relation> _:df_1_15932.
+_:df_1_15932 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+ga.ttl>;
+    <https://w3id.org/tree#value> "avenue", "du", "ga".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl> <https://w3id.org/tree#relation> _:df_1_15933.
+_:df_1_15933 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+ge.ttl>;
+    <https://w3id.org/tree#value> "avenue", "du", "ge".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl> <https://w3id.org/tree#relation> _:df_1_15934.
+_:df_1_15934 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+gr.ttl>;
+    <https://w3id.org/tree#value> "avenue", "du", "gr".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl> <https://w3id.org/tree#relation> _:df_1_15935.
+_:df_1_15935 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+gi.ttl>;
+    <https://w3id.org/tree#value> "avenue", "du", "gi".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl> <https://w3id.org/tree#relation> _:df_1_15936.
+_:df_1_15936 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+go.ttl>;
+    <https://w3id.org/tree#value> "avenue", "du", "go".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl> <https://w3id.org/tree#relation> _:df_1_15937.
+_:df_1_15937 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+gu.ttl>;
+    <https://w3id.org/tree#value> "avenue", "du", "gu".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+du+g.ttl>.

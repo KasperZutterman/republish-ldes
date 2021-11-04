@@ -480,3 +480,236 @@ _:df_1_15921 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+w.ttl>;
     <https://w3id.org/tree#value> "rue", "jules", "w".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dbb6d48f87fe4fc1c53c46cebebaaa91deee368d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:59.292Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Bordet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dbb6d48f87fe4fc1c53c46cebebaaa91deee368d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f5775cc3424ce590deb9c3a49a435894d8bc63ec> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:59.813Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Destrée"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f5775cc3424ce590deb9c3a49a435894d8bc63ec>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4d7577de630bd86d664480f1c18d8e668e6276d7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:00.659Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Hans"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4d7577de630bd86d664480f1c18d8e668e6276d7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#48dd895ad2cfb17b05aff19ccf239fe4f6d971b2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:14.810Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Bouillonstraat"@nl, "Rue Jules Bouillon"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#48dd895ad2cfb17b05aff19ccf239fe4f6d971b2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#abec8ad915997262582c7393cac72a54c6a05cb7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:14.958Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Lejeunestraat"@nl, "Rue Jules Lejeune"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#abec8ad915997262582c7393cac72a54c6a05cb7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8c7d0580d01c9829c5e788ab741e2a65d965379a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:44.536Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Vannestestraat"@nl, "Rue Jules Vanneste"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8c7d0580d01c9829c5e788ab741e2a65d965379a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#08804ebd66d214d3abf8a3540b27ce3d12f0ed2a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:50.961Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Beauvoisestraat"@nl, "Rue Jules Beauvoise"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#08804ebd66d214d3abf8a3540b27ce3d12f0ed2a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8e9bcb721043e957682ff8e47018d20ed7f26f07> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/21919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:23.838Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Lahayestraat"@nl, "Rue Jules Lahaye"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8e9bcb721043e957682ff8e47018d20ed7f26f07>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#28b833828a8e6fa9adc544ab2deee8b65328b0ee> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:56.449Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Besmestraat"@nl, "Rue Jules Besme"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#28b833828a8e6fa9adc544ab2deee8b65328b0ee>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c4815c9386e27a30da2bbefb231f7d7bc5bc8307> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:57.605Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Debeckerstraat"@nl, "Rue Jules Debecker"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c4815c9386e27a30da2bbefb231f7d7bc5bc8307>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#687f2437580a85d196c7f0eeb5e24bf122598dfd> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:39.572Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Claskin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62118>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#687f2437580a85d196c7f0eeb5e24bf122598dfd>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e49eed9165cd3f395551a2d17fe22107e42119c7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/105920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:40.061Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Destrée"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62118>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e49eed9165cd3f395551a2d17fe22107e42119c7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ee53ba2864cdbd4f3061172c47077d78334274c6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:40.801Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Delhaizestraat"@nl, "Rue Jules Delhaize"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21012>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ee53ba2864cdbd4f3061172c47077d78334274c6>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7590cf09dbd7d72a4708224f3d4a835393106330> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:41.733Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Jules Vieujantstraat"@nl, "Rue Jules Vieujant"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21012>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7590cf09dbd7d72a4708224f3d4a835393106330>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#85bba56a9b77b0f445c15ac134b39eb4ca86eeef> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:01.745Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Dekeyn"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#85bba56a9b77b0f445c15ac134b39eb4ca86eeef>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#47a788910da1c837ac5667589e44b25b75ae04b7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/106180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:43.231Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Prégardien"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62119>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#47a788910da1c837ac5667589e44b25b75ae04b7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cc2546f1c3f87aea3378a1660c79dda5380aedf8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:37.701Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Depauw"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25037>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cc2546f1c3f87aea3378a1660c79dda5380aedf8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#520c51f454b868f357336357c765bd98a407f10e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39549>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:38.169Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Deville"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25037>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#520c51f454b868f357336357c765bd98a407f10e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3084b8333bf1ef05b43be8276a9fb6d908e4119b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39550>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:40.194Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Hoslet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25037>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3084b8333bf1ef05b43be8276a9fb6d908e4119b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a19a589d6eb0b85ce8da262b52b82dcff35e91e7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/106557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:13.976Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Jules Beaumont"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62120>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a19a589d6eb0b85ce8da262b52b82dcff35e91e7>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15104.
+_:df_1_15104 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+d.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15105.
+_:df_1_15105 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+l.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "l".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15106.
+_:df_1_15106 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+p.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "p".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15107.
+_:df_1_15107 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+c.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "c".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15108.
+_:df_1_15108 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+t.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "t".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15109.
+_:df_1_15109 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+m.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15110.
+_:df_1_15110 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+a.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "a".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15111.
+_:df_1_15111 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+b.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15112.
+_:df_1_15112 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+s.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15113.
+_:df_1_15113 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+h.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "h".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15114.
+_:df_1_15114 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+f.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "f".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15115.
+_:df_1_15115 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+g.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "g".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl> <https://w3id.org/tree#relation> _:df_1_15116.
+_:df_1_15116 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules+v.ttl>;
+    <https://w3id.org/tree#value> "rue", "jules", "v".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+jules.ttl>.

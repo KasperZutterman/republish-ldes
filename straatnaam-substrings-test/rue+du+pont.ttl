@@ -504,3 +504,256 @@ _:df_1_14903 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+v.ttl>;
     <https://w3id.org/tree#value> "rue", "du", "pont", "v".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c89bdb5dbfeb15cb49baf6a3865409fbb4c568d9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:29.535Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-02T14:47:11+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont-à-Biesmes"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92137>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c89bdb5dbfeb15cb49baf6a3865409fbb4c568d9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d47cb21d36740fecedca841148d53ccf96437298> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:13:45.230Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Karperbrug"@nl, "Rue du Pont de la Carpe"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d47cb21d36740fecedca841148d53ccf96437298>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1d87fe665393e93fa9bddbab963a51a31d8ff768> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:08.656Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Laanbrugstraat"@nl, "Rue du Pont de l'Avenue"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1d87fe665393e93fa9bddbab963a51a31d8ff768>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7bf86287c1ef3448e3ee5456ec08a8d8fbc9f493> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:45.931Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Nieuwbrug"@nl, "Rue du Pont Neuf"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7bf86287c1ef3448e3ee5456ec08a8d8fbc9f493>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c8c08a9cc1525fe1ea8179046d3c35a98e218c20> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/87564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:15:06.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont Saint"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53068>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c8c08a9cc1525fe1ea8179046d3c35a98e218c20>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d977f8e02ff6dd9059a606b6d3024fda99569976> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/193709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:37.990Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2017-09-12T08:46:32+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont-Neuf"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25121>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d977f8e02ff6dd9059a606b6d3024fda99569976>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0c9ed3a94b9d47cc36673139c52b74e54ab205f1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137823>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:07.474Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont-des-Pages"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92142>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0c9ed3a94b9d47cc36673139c52b74e54ab205f1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fce12d32e0661ec05be76082ae9069719afb21f8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/137824>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:07.614Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont-Mahaux"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92142>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fce12d32e0661ec05be76082ae9069719afb21f8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e927f1950fc7ca1fd3d0357ef22486373d2f9f32> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:15.362Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont d'Arcole"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53082>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e927f1950fc7ca1fd3d0357ef22486373d2f9f32>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#980ef8b68d061ad0e4e52a4facc777850e7c8007> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88074>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:15.451Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont de la Joncquière"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53082>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#980ef8b68d061ad0e4e52a4facc777850e7c8007>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1f19aeae408ae69a89b02d96b90e7555a836c159> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:15.784Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont de Pierre"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53082>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1f19aeae408ae69a89b02d96b90e7555a836c159>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#63ea99fb5c3b58e4874136542af30a175bb21c08> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:51.114Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont Rouge"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#63ea99fb5c3b58e4874136542af30a175bb21c08>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a02ace696803fcbebb67f84baba9272b20411b7c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/104743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:55.555Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont du Val"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62096>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a02ace696803fcbebb67f84baba9272b20411b7c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dcc4016c3d2da3c988c7a412012e239cd81281cc> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:18:57.272Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont-Pavot"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dcc4016c3d2da3c988c7a412012e239cd81281cc>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ca4afbc69732b52e655373594e22daac5b23b6f1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:19:00.946Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont-du-Roy"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ca4afbc69732b52e655373594e22daac5b23b6f1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5fa626d9a23e108588860678970edc031d616448> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/138672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:29.880Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont-du-Sansoir"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/93022>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5fa626d9a23e108588860678970edc031d616448>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c786b97e799c74d4762c1d8c365685eafc893f68> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88959>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:33.887Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Blauwe Brugstraat"@nl, "Rue du Pont-Bleu"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c786b97e799c74d4762c1d8c365685eafc893f68>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0dfeb568ecd52aa1f431e920f198a8136d66f804> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/88960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:20:36.251Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Groene Brugstraat"@nl, "Rue du Pont-Vert"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54007>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0dfeb568ecd52aa1f431e920f198a8136d66f804>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cf3891555e226e40f827dec86d47b4b5e1b2c6fb> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:58.667Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pont-Neuf straat"@nl, "Rue du Pont-Neuf"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cf3891555e226e40f827dec86d47b4b5e1b2c6fb>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#004a1fc9a0760feab5cb291ad231a4c2cf57aab2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/38988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:30.185Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue du Pont de Pierres"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25023>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#004a1fc9a0760feab5cb291ad231a4c2cf57aab2>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14164.
+_:df_1_14164 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+r.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "r".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14165.
+_:df_1_14165 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+t.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "t".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14166.
+_:df_1_14166 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+d.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14167.
+_:df_1_14167 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+m.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14168.
+_:df_1_14168 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+l.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "l".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14169.
+_:df_1_14169 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+a.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "a".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14170.
+_:df_1_14170 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+g.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "g".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14171.
+_:df_1_14171 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+ponto.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "ponto".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14172.
+_:df_1_14172 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+b.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14173.
+_:df_1_14173 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+c.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "c".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14174.
+_:df_1_14174 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+ponti.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "ponti".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14175.
+_:df_1_14175 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+n.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "n".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14176.
+_:df_1_14176 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+s.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14177.
+_:df_1_14177 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+j.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "j".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14178.
+_:df_1_14178 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+f.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "f".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14179.
+_:df_1_14179 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+p.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "p".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14180.
+_:df_1_14180 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+q.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "q".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl> <https://w3id.org/tree#relation> _:df_1_14181.
+_:df_1_14181 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont+v.ttl>;
+    <https://w3id.org/tree#value> "rue", "du", "pont", "v".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+du+pont.ttl>.

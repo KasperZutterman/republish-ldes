@@ -504,3 +504,224 @@ _:df_1_12647 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#value> "avenue", "e.".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl>.
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#56440456c1461435f021f7625993c1374cabe143> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/101989>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:47.217Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Emile-Digneffe"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62063>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#56440456c1461435f021f7625993c1374cabe143>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9bc5f9a2f0b2c8012439e5493926724a09c60b04> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/101990>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:47.670Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Emile-Jennissen"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62063>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9bc5f9a2f0b2c8012439e5493926724a09c60b04>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ca3b007815040c1d1de64912b9ef0614964d15b9> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/18740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:29.259Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Eugène Baielaan"@nl, "Avenue Eugène Baie"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ca3b007815040c1d1de64912b9ef0614964d15b9>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bbe211ccfa3dff18ba7e90327a17d9a357a00337> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/18741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:30.766Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Eugène Ysayelaan"@nl, "Avenue Eugène Ysaye"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bbe211ccfa3dff18ba7e90327a17d9a357a00337>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#96423c835730538afc5e6c0fb2d0a6c2bf17d08c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/18732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:32.791Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Emile Grysonlaan"@nl, "Avenue Emile Gryson"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#96423c835730538afc5e6c0fb2d0a6c2bf17d08c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f5909af590bcac972d7dea82ad4206e1075e1b93> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/86206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:55.007Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Edison"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53053>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f5909af590bcac972d7dea82ad4206e1075e1b93>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b7de0bc73ec26071445dc5055159526ca1708075> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:18.659Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ernest Claeslaan"@nl, "Avenue Ernest Claes"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b7de0bc73ec26071445dc5055159526ca1708075>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e4c66ef452b16ffe7017cf647fb458859ac0a89e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:11:14.316Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Evariste De Meersmanlaan"@nl, "Avenue Evariste De Meersman"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e4c66ef452b16ffe7017cf647fb458859ac0a89e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#71014e90c981a151d324a2a5b9a139f0c7249ff8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19759>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:44.536Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Emile De Motlaan"@nl, "Avenue Emile De Mot"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#71014e90c981a151d324a2a5b9a139f0c7249ff8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0bb07995c084c0face7829472ce621b910296db4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:45.803Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Edouard Kufferathlaan"@nl, "Avenue Edouard Kufferath"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0bb07995c084c0face7829472ce621b910296db4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cadbac7854be13cd96879aa7364939e7be6864cf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:46.173Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Emile Duraylaan"@nl, "Avenue Emile Duray"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cadbac7854be13cd96879aa7364939e7be6864cf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1040a7addf9398ab4948bd312309579c49cd2293> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:48.627Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Emile Van Ermengemlaan"@nl, "Avenue Emile Van Ermengem"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1040a7addf9398ab4948bd312309579c49cd2293>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#522de4de56189ef8015c60141831a6a4e2fe2b78> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/19770>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:12:57.693Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Ernest Masoinlaan"@nl, "Avenue Ernest Masoin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21004>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#522de4de56189ef8015c60141831a6a4e2fe2b78>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#27a4e677842c198458063a5dfdfbea6766fdf49d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/103795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:14:11.154Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Edouard Remy"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62079>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#27a4e677842c198458063a5dfdfbea6766fdf49d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b279db9c807378e5f18fa81ef856d195f9bc1fe6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/104354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:16:26.633Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Avenue Emma"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62096>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b279db9c807378e5f18fa81ef856d195f9bc1fe6>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#19e1f773b14704a9deb6c12fa712dec0beee4ee1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:03.582Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Edmond Mesenslaan"@nl, "Avenue Edmond Mesens"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#19e1f773b14704a9deb6c12fa712dec0beee4ee1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6ada7e3361303a8570e0762cae694750123235ce> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:04.724Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Edouard de Thibaultlaan"@nl, "Avenue Edouard de Thibault"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6ada7e3361303a8570e0762cae694750123235ce>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a17d6f69f9dd2ab80718ac50b52135a4024c00dd> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:04.785Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Edouard Lacomblélaan"@nl, "Avenue Edouard Lacomblé"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a17d6f69f9dd2ab80718ac50b52135a4024c00dd>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7c0e5febae97026db7151607a92d3c25989395b5> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:07.535Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Eudore Pirmezlaan"@nl, "Avenue Eudore Pirmez"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7c0e5febae97026db7151607a92d3c25989395b5>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#96d4a9094ebed0356fde07365ba7ab404cc4da6e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/20838>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:17:07.720Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Eugène Godauxlaan"@nl, "Avenue Eugène Godaux"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21005>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#96d4a9094ebed0356fde07365ba7ab404cc4da6e>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12071.
+_:df_1_12071 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ev.ttl>;
+    <https://w3id.org/tree#value> "avenue", "ev".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12072.
+_:df_1_12072 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ed.ttl>;
+    <https://w3id.org/tree#value> "avenue", "ed".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12073.
+_:df_1_12073 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+er.ttl>;
+    <https://w3id.org/tree#value> "avenue", "er".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12074.
+_:df_1_12074 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+em.ttl>;
+    <https://w3id.org/tree#value> "avenue", "em".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12075.
+_:df_1_12075 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+eu.ttl>;
+    <https://w3id.org/tree#value> "avenue", "eu".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12076.
+_:df_1_12076 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+el.ttl>;
+    <https://w3id.org/tree#value> "avenue", "el".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12077.
+_:df_1_12077 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+et.ttl>;
+    <https://w3id.org/tree#value> "avenue", "et".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12078.
+_:df_1_12078 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ec.ttl>;
+    <https://w3id.org/tree#value> "avenue", "ec".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12079.
+_:df_1_12079 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+en.ttl>;
+    <https://w3id.org/tree#value> "avenue", "en".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl> <https://w3id.org/tree#relation> _:df_1_12080.
+_:df_1_12080 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+ei.ttl>;
+    <https://w3id.org/tree#value> "avenue", "ei".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/avenue+e.ttl>.

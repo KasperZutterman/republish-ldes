@@ -488,3 +488,244 @@ _:df_1_17013 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopoldv.ttl>;
     <https://w3id.org/tree#value> "leopoldv".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ce39a4d8d9b055db1bc1e34131fa0c479ceb451c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/203978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:01.039Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:05:56+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasCorrectedToCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopoldlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72043>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ce39a4d8d9b055db1bc1e34131fa0c479ceb451c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#94288b823f825d0d72cb9ce2341ee1a0002a8431> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/55940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:10.007Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold III-laan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#94288b823f825d0d72cb9ce2341ee1a0002a8431>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bc3b4dd44f30588e5c9d0f3a8ce9f2ea399b7c9b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/55941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:11.570Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold II-laan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bc3b4dd44f30588e5c9d0f3a8ce9f2ea399b7c9b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#bcc3d9d49a405c91892bf4122be8a8a32402a38d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/55942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:11.777Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold I-plein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#bcc3d9d49a405c91892bf4122be8a8a32402a38d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#705e7aaf49a4d33c1a2568dcedda357301775ecd> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/55943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:13.133Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold Van Tyghemlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#705e7aaf49a4d33c1a2568dcedda357301775ecd>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#04e12889e1bbce41dd6ef2c91ac434842facca00> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/55944>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:23:14.489Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopoldpark"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#04e12889e1bbce41dd6ef2c91ac434842facca00>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c9402a2d75d375fb3b96c2533a3e7a15f1d0374d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/123113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:27.443Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopoldwal"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73083>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c9402a2d75d375fb3b96c2533a3e7a15f1d0374d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2df93da7863a789b990ba31e8d93d6c0b7951583> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:47.681Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold II Plein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2df93da7863a789b990ba31e8d93d6c0b7951583>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8c0f6e5598f32b94f5bc9cb83cb6c3e6a9f2b416> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:47.711Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-22T17:45:58+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold II Plein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8c0f6e5598f32b94f5bc9cb83cb6c3e6a9f2b416>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#226807a2ac2805f845ec8d9f228d6d4b39245a05> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/139771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:51.547Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "LEOPOLD LAMBINLAAN"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#226807a2ac2805f845ec8d9f228d6d4b39245a05>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#427fdddc8e6a319438cb3e154367f5d6bcef55a6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:31.408Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Léopold Couroublestraat"@nl, "Rue Léopold Courouble"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#427fdddc8e6a319438cb3e154367f5d6bcef55a6>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a1e921ca8d1869ebea43bfdd5f29cbf0a8b34e31> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:31.498Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold III-laan"@nl, "Boulevard Léopold III"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a1e921ca8d1869ebea43bfdd5f29cbf0a8b34e31>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#07a7c03129ffa096b8b6058dbdd3487af758d2aa> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/56640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:02.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold Brionstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#07a7c03129ffa096b8b6058dbdd3487af758d2aa>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f59a0624d64bd9edad1d10f28467c473366ca4b0> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/56641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:02.317Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold II-laan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f59a0624d64bd9edad1d10f28467c473366ca4b0>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7b80a596c3223682e3920dc83b401f3d8055db47> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/56642>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:02.816Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopoldlaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7b80a596c3223682e3920dc83b401f3d8055db47>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3bd9527dd057b0b0c62896918006a668fb115cde> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/56643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:03.984Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopoldplein"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/35029>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3bd9527dd057b0b0c62896918006a668fb115cde>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#46270e3cb68310a428b99c68864d0495e409fc2f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/123628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:35.102Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopoldstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73107>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#46270e3cb68310a428b99c68864d0495e409fc2f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#aaa4a6770de86ed84d7ca4b8b8ed8da1481eee6c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/6606>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:37.628Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopoldstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#aaa4a6770de86ed84d7ca4b8b8ed8da1481eee6c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3bfdce16819a158cece6d6064e299188012507a3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/6807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:25.544Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Leopold Gabriëlslaan"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11039>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3bfdce16819a158cece6d6064e299188012507a3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#243f867294e08e325bd21d0a6752f736e9502ca8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23476>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:25.603Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Léopold Wienerlaan"@nl, "Avenue Léopold Wiener"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21017>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#243f867294e08e325bd21d0a6752f736e9502ca8>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16095.
+_:df_1_16095 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+w.ttl>;
+    <https://w3id.org/tree#value> "leopold", "w".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16096.
+_:df_1_16096 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopoldd.ttl>;
+    <https://w3id.org/tree#value> "leopoldd".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16097.
+_:df_1_16097 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+r.ttl>;
+    <https://w3id.org/tree#value> "leopold", "r".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16098.
+_:df_1_16098 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+s.ttl>;
+    <https://w3id.org/tree#value> "leopold", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16099.
+_:df_1_16099 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+d.ttl>;
+    <https://w3id.org/tree#value> "leopold", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16100.
+_:df_1_16100 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopoldl.ttl>;
+    <https://w3id.org/tree#value> "leopoldl".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16101.
+_:df_1_16101 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+i.ttl>;
+    <https://w3id.org/tree#value> "leopold", "i".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16102.
+_:df_1_16102 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopolds.ttl>;
+    <https://w3id.org/tree#value> "leopolds".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16103.
+_:df_1_16103 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+l.ttl>;
+    <https://w3id.org/tree#value> "leopold", "l".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16104.
+_:df_1_16104 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopoldp.ttl>;
+    <https://w3id.org/tree#value> "leopoldp".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16105.
+_:df_1_16105 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopoldi.ttl>;
+    <https://w3id.org/tree#value> "leopoldi".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16106.
+_:df_1_16106 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopoldw.ttl>;
+    <https://w3id.org/tree#value> "leopoldw".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16107.
+_:df_1_16107 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopoldh.ttl>;
+    <https://w3id.org/tree#value> "leopoldh".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16108.
+_:df_1_16108 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+n.ttl>;
+    <https://w3id.org/tree#value> "leopold", "n".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl> <https://w3id.org/tree#relation> _:df_1_16109.
+_:df_1_16109 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold+b.ttl>;
+    <https://w3id.org/tree#value> "leopold", "b".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/leopold.ttl>.

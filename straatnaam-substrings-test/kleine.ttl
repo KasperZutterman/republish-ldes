@@ -600,3 +600,300 @@ _:df_1_5598 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+c.ttl>;
     <https://w3id.org/tree#value> "kleine", "c".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#58ff8338e1733df6f481349e3768f0f4f28c874a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/68273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:48:41.968Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Pontstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#58ff8338e1733df6f481349e3768f0f4f28c874a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#07d82d3d0c93317207756172e0ba1b115f289c70> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/68273>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:48:41.985Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:14:11+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Pontstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44011>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#07d82d3d0c93317207756172e0ba1b115f289c70>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4e5c2a7a1478a14383f9976ed11bc07f4c997a25> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/181449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:48:42.907Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-10-14T14:00:22+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Wegel"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/23088>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4e5c2a7a1478a14383f9976ed11bc07f4c997a25>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#79d57690ca304860b0ae0055096b05e0896db418> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/118154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:48:52.619Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Kasteelstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#79d57690ca304860b0ae0055096b05e0896db418>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#89b4be813bde7cdee420975c8fa342c4881da5eb> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/118155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:48:53.262Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Scheurestraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#89b4be813bde7cdee420975c8fa342c4881da5eb>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#368c33d1b3b1adfca95c468ffad25e0c42887de7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/17962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:49:21.824Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Tramstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/13046>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#368c33d1b3b1adfca95c468ffad25e0c42887de7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#557c7aba5f2b37277ef6e4612c9862179d53758a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/51457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:49:53.726Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Brandstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/34009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#557c7aba5f2b37277ef6e4612c9862179d53758a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e151209833585b54f12834bbf5e2de50142f2471> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/51458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:49:54.134Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Klijtstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/34009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e151209833585b54f12834bbf5e2de50142f2471>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b170b60159e54ecb5e630d58d943b52e59ff0144> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/51459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:49:54.275Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Tapuitstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/34009>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b170b60159e54ecb5e630d58d943b52e59ff0144>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#87ba2487ae03c1741ee68050d0ed32a51f535a36> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/181829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:00.042Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2015-02-07T03:02:51+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Winterdijk"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#87ba2487ae03c1741ee68050d0ed32a51f535a36>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7d11e26829431dfa49ca444a45a28dcbeddfb047> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/118488>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:17.134Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Dijk"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7d11e26829431dfa49ca444a45a28dcbeddfb047>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#eafb80050b4edd8a15eefac3ebe1c0effdc92114> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/118489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:17.626Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Hoef"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/72020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#eafb80050b4edd8a15eefac3ebe1c0effdc92114>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#252a9cf644e742666daea0964c050f77ba8ee759> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:33.051Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Goddaard"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#252a9cf644e742666daea0964c050f77ba8ee759>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1fb49e2035b50ecd7bde7f8d4208e6bc66d87c33> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:33.530Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Kauwenberg"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1fb49e2035b50ecd7bde7f8d4208e6bc66d87c33>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#699562d19bd9fe32927b18c29bf5486a26b6cb4f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:33.648Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Koraalberg"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#699562d19bd9fe32927b18c29bf5486a26b6cb4f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#91f6163d47da1b381c0f4e2f7c7d317fdd42ff37> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1556>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:33.658Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Kraaiwijk"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#91f6163d47da1b381c0f4e2f7c7d317fdd42ff37>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#76608f80e9ebe6392ed55af488bb81ee0804ecbf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:33.765Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Markt"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#76608f80e9ebe6392ed55af488bb81ee0804ecbf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1a44cdbae74b9606be87e8d791e4c8f9beaa8e49> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:33.880Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Pieter Potstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1a44cdbae74b9606be87e8d791e4c8f9beaa8e49>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#961a4a8c36aee72099010c65b06106069fad6d3f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:34.965Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Stoppelbergen"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#961a4a8c36aee72099010c65b06106069fad6d3f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8606ffd1df2381626b27fa378a720d2feffb03f4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/1560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:35.055Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleinebeerstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11002>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8606ffd1df2381626b27fa378a720d2feffb03f4>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5402.
+_:df_1_5402 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleines.ttl>;
+    <https://w3id.org/tree#value> "kleines".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5403.
+_:df_1_5403 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleineh.ttl>;
+    <https://w3id.org/tree#value> "kleineh".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5404.
+_:df_1_5404 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+b.ttl>;
+    <https://w3id.org/tree#value> "kleine", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5405.
+_:df_1_5405 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+d.ttl>;
+    <https://w3id.org/tree#value> "kleine", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5406.
+_:df_1_5406 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+h.ttl>;
+    <https://w3id.org/tree#value> "kleine", "h".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5407.
+_:df_1_5407 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+w.ttl>;
+    <https://w3id.org/tree#value> "kleine", "w".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5408.
+_:df_1_5408 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+m.ttl>;
+    <https://w3id.org/tree#value> "kleine", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5409.
+_:df_1_5409 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+a.ttl>;
+    <https://w3id.org/tree#value> "kleine", "a".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5410.
+_:df_1_5410 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+p.ttl>;
+    <https://w3id.org/tree#value> "kleine", "p".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5411.
+_:df_1_5411 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+n.ttl>;
+    <https://w3id.org/tree#value> "kleine", "n".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5412.
+_:df_1_5412 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+k.ttl>;
+    <https://w3id.org/tree#value> "kleine", "k".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5413.
+_:df_1_5413 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+e.ttl>;
+    <https://w3id.org/tree#value> "kleine", "e".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5414.
+_:df_1_5414 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+i.ttl>;
+    <https://w3id.org/tree#value> "kleine", "i".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5415.
+_:df_1_5415 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+l.ttl>;
+    <https://w3id.org/tree#value> "kleine", "l".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5416.
+_:df_1_5416 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+s.ttl>;
+    <https://w3id.org/tree#value> "kleine", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5417.
+_:df_1_5417 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+r.ttl>;
+    <https://w3id.org/tree#value> "kleine", "r".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5418.
+_:df_1_5418 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+g.ttl>;
+    <https://w3id.org/tree#value> "kleine", "g".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5419.
+_:df_1_5419 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+z.ttl>;
+    <https://w3id.org/tree#value> "kleine", "z".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5420.
+_:df_1_5420 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleinev.ttl>;
+    <https://w3id.org/tree#value> "kleinev".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5421.
+_:df_1_5421 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+v.ttl>;
+    <https://w3id.org/tree#value> "kleine", "v".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5422.
+_:df_1_5422 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleinem.ttl>;
+    <https://w3id.org/tree#value> "kleinem".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5423.
+_:df_1_5423 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleinew.ttl>;
+    <https://w3id.org/tree#value> "kleinew".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5424.
+_:df_1_5424 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+o.ttl>;
+    <https://w3id.org/tree#value> "kleine", "o".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5425.
+_:df_1_5425 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleinez.ttl>;
+    <https://w3id.org/tree#value> "kleinez".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5426.
+_:df_1_5426 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+f.ttl>;
+    <https://w3id.org/tree#value> "kleine", "f".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5427.
+_:df_1_5427 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleinen.ttl>;
+    <https://w3id.org/tree#value> "kleinen".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5428.
+_:df_1_5428 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleinek.ttl>;
+    <https://w3id.org/tree#value> "kleinek".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5429.
+_:df_1_5429 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleineb.ttl>;
+    <https://w3id.org/tree#value> "kleineb".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl> <https://w3id.org/tree#relation> _:df_1_5430.
+_:df_1_5430 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine+t.ttl>;
+    <https://w3id.org/tree#value> "kleine", "t".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/kleine.ttl>.
