@@ -239,3 +239,244 @@ _:df_1_18469 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+l.ttl>;
     <https://w3id.org/tree#value> "victor", "l".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#58767818daf5e14bc036ea11438fc8d94d9d6a0d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/73737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:43.540Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:05:28+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor De Craenestraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44072>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#58767818daf5e14bc036ea11438fc8d94d9d6a0d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9ab4d421f0bd40cbe5df15aa1342820108a58f2b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/123797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:11.380Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victoriestraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/73107>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9ab4d421f0bd40cbe5df15aa1342820108a58f2b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#67e09fe2d8d19d207e2264e332c5f6089699e90a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:39.888Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Allardstraat"@nl, "Rue Victor Allard"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#67e09fe2d8d19d207e2264e332c5f6089699e90a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b1689b8e744bccc49ca06c82795ddb142b28cdbf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:40.714Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Gambierstraat"@nl, "Rue Victor Gambier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b1689b8e744bccc49ca06c82795ddb142b28cdbf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#602eb2bafc2d69d8a9b890f36ca4d65d26b2da13> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:40.949Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor-Emmanuel III laan"@nl, "Avenue Victor-Emmanuel III"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21016>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#602eb2bafc2d69d8a9b890f36ca4d65d26b2da13>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b70953c71a30377804e7afa2f40c7b85efed4a44> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/6902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:47.212Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Frislei"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11039>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b70953c71a30377804e7afa2f40c7b85efed4a44>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#cb9cf5adc7685f0e58353d50a9b89031080b1a7f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/57344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:54.230Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Saelenstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/36008>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#cb9cf5adc7685f0e58353d50a9b89031080b1a7f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c468896a66849cad99899a7f82b703cd3f5df86a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/205468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:08.348Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2019-01-01T07:03:21+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasCorrectedToCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor De Craenestraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/44085>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c468896a66849cad99899a7f82b703cd3f5df86a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#8ff69f4cce0663b0cde1940a88becae2ab8e5391> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/7227>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:12.104Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Nelisstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#8ff69f4cce0663b0cde1940a88becae2ab8e5391>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9e872b34c651e95392bd158c1e768b10c35dba4a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/7224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:14.889Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Adriaenssensstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9e872b34c651e95392bd158c1e768b10c35dba4a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#79af4157480ef58d081b6cc985b7cda57d434d62> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/7225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:16.815Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Despallierstraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#79af4157480ef58d081b6cc985b7cda57d434d62>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#207430fe7c31097b847353a9f980dac6048418af> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/7226>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:17.084Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Frislei"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/11040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#207430fe7c31097b847353a9f980dac6048418af>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#862dea7ec449937e00e08cf2af2dc364e0548448> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:03.061Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Gilsoulgaarde"@nl, "Clos Victor Gilsoul"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#862dea7ec449937e00e08cf2af2dc364e0548448>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#19237103f028cacac7bf60a86ce3b6e52d967be2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:03.364Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Gilsoullaan"@nl, "Avenue Victor Gilsoul"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#19237103f028cacac7bf60a86ce3b6e52d967be2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5b920ed1e345bb0e4860ee5d8f1b4d446cf562d4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75078>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:17.716Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Hugostraat"@nl, "Rue Victor Hugo"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5b920ed1e345bb0e4860ee5d8f1b4d446cf562d4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#30d2579eec2b45e76fadf2ce7c1bbd6888620c14> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75078>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:17.723Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-04-09T18:25:31+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrectedToCleared";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Hugostraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#30d2579eec2b45e76fadf2ce7c1bbd6888620c14>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7e1e37f36342f0d2bda52145097349b9832ad30a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75078>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:17.725Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:01:01+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Hugostraat"@nl, "Rue Victor Hugo"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7e1e37f36342f0d2bda52145097349b9832ad30a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#017da5b35d118ddbddc68c83095f049e4f7d92b1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:18.743Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Lagachestraat"@nl, "Rue Victor Lagache"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#017da5b35d118ddbddc68c83095f049e4f7d92b1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ddac30f40f498e14dbb2d97e4224fc7c77a27a48> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:18.764Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-04-09T18:25:31+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrectedToCleared";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Lagachestraat"@nl;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ddac30f40f498e14dbb2d97e4224fc7c77a27a48>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#793663f7d37c3f66321cfd1578be221dc4e8be21> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:18.783Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:01:01+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Victor Lagachestraat"@nl, "Rue Victor Lagache"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#793663f7d37c3f66321cfd1578be221dc4e8be21>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18452.
+_:df_1_18452 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+v.ttl>;
+    <https://w3id.org/tree#value> "victor", "v".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18453.
+_:df_1_18453 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+h.ttl>;
+    <https://w3id.org/tree#value> "victor", "h".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18454.
+_:df_1_18454 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victori.ttl>;
+    <https://w3id.org/tree#value> "victori".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18455.
+_:df_1_18455 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+b.ttl>;
+    <https://w3id.org/tree#value> "victor", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18456.
+_:df_1_18456 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+d.ttl>;
+    <https://w3id.org/tree#value> "victor", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18457.
+_:df_1_18457 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+k.ttl>;
+    <https://w3id.org/tree#value> "victor", "k".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18458.
+_:df_1_18458 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+s.ttl>;
+    <https://w3id.org/tree#value> "victor", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18459.
+_:df_1_18459 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victorl.ttl>;
+    <https://w3id.org/tree#value> "victorl".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18460.
+_:df_1_18460 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+m.ttl>;
+    <https://w3id.org/tree#value> "victor", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18461.
+_:df_1_18461 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+g.ttl>;
+    <https://w3id.org/tree#value> "victor", "g".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18462.
+_:df_1_18462 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+a.ttl>;
+    <https://w3id.org/tree#value> "victor", "a".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18463.
+_:df_1_18463 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+w.ttl>;
+    <https://w3id.org/tree#value> "victor", "w".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18464.
+_:df_1_18464 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+f.ttl>;
+    <https://w3id.org/tree#value> "victor", "f".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18465.
+_:df_1_18465 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+n.ttl>;
+    <https://w3id.org/tree#value> "victor", "n".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl> <https://w3id.org/tree#relation> _:df_1_18466.
+_:df_1_18466 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor+l.ttl>;
+    <https://w3id.org/tree#value> "victor", "l".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/victor.ttl>.

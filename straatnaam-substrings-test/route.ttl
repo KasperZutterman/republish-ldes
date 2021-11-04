@@ -239,3 +239,244 @@ _:df_1_8454 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+l.ttl>;
     <https://w3id.org/tree#value> "route", "l".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fe057d4dc4a56ad3c007a429bb99e120c83bc84e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:14.937Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de Floreffe"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fe057d4dc4a56ad3c007a429bb99e120c83bc84e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5e443781cfb4df2fddc92a642523ad48984cb6ac> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:14.941Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2005-03-21T16:53:56+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameWasRetired";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route des Panoramas"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5e443781cfb4df2fddc92a642523ad48984cb6ac>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#58c11c5fda60067eefcffab82cbed5547f42b758> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:14.997Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route Merveilleuse"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#58c11c5fda60067eefcffab82cbed5547f42b758>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#29513701a8e93e1b47d12d31aeddd66883c16a3d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:15.680Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route Nouvelle"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#29513701a8e93e1b47d12d31aeddd66883c16a3d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a1a53dd1ed653b9ef5b2f56957f8ea99861f2f6f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:15.710Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de Hannut"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a1a53dd1ed653b9ef5b2f56957f8ea99861f2f6f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#02141fcfc3aaf5d8c48fab4c4eb48440cc0bb3b2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:16.900Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route Royale"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#02141fcfc3aaf5d8c48fab4c4eb48440cc0bb3b2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#51811af7d85ce23d08f2aaafab3dc4e1a65e3267> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:17.183Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de Isnes"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#51811af7d85ce23d08f2aaafab3dc4e1a65e3267>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4310067cd2074003c26b8d3e37da9bb7c202da76> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/135117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:17.587Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de la Navinne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92094>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4310067cd2074003c26b8d3e37da9bb7c202da76>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3676f680b75250b243707110a891001cb0b4b015> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/85497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:53.912Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de Bavay"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53028>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3676f680b75250b243707110a891001cb0b4b015>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dfcb305a2da8230c623b11babf16d232a80b0cef> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/85498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:50:53.992Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route d'Eugies"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53028>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dfcb305a2da8230c623b11babf16d232a80b0cef>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e70d55151b24a8a57b1002e117bb9eb85612b640> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/184110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:07:51.281Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2015-09-09T03:02:05+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de la Ronde Fagne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/82036>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e70d55151b24a8a57b1002e117bb9eb85612b640>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b675abd8073618ed791f712ca7eaece1fbbefbda> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/184188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:04.562Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2015-09-09T03:02:05+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de Wideumont"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/82036>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b675abd8073618ed791f712ca7eaece1fbbefbda>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b74876d1c30f9066b817a5bf02aea44757a0b3a3> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/85862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:26.407Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route d'Ath"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53044>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b74876d1c30f9066b817a5bf02aea44757a0b3a3>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b9b49c9cf475f614af2a28a410184ae650c52fa0> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/85863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:28.617Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de Lens"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53044>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b9b49c9cf475f614af2a28a410184ae650c52fa0>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#53ea69ef15bda323c4daf7a71c61ba9bf1c81973> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/102468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:08:49.883Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route du Condroz"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62063>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#53ea69ef15bda323c4daf7a71c61ba9bf1c81973>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6a82285c01ac05543bcf03c1eab86f5993b86800> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/86023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:03.055Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de Gondregnies"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/53046>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6a82285c01ac05543bcf03c1eab86f5993b86800>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#587c9390c6c6000d01636e7b01e44994067e616b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/18887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:06.131Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Lennikse Baan"@nl, "Route de Lennik"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#587c9390c6c6000d01636e7b01e44994067e616b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#903fba61520184a038d82fbe3852e9c876728d80> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/185281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:41.938Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-02-18T03:04:11+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route du Stritchou"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/82038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#903fba61520184a038d82fbe3852e9c876728d80>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#aac509ca959950c6390e81d80f5091c321636615> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/185276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:09:43.298Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2016-02-18T03:04:11+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route du Vieux Frêne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/82038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#aac509ca959950c6390e81d80f5091c321636615>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#c0d58c9ee4af489d30c2f283978b6b42dd64bca4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/136269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:10:57.771Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Route de la Ferme"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92097>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#c0d58c9ee4af489d30c2f283978b6b42dd64bca4>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8439.
+_:df_1_8439 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+d.ttl>;
+    <https://w3id.org/tree#value> "route", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8440.
+_:df_1_8440 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+p.ttl>;
+    <https://w3id.org/tree#value> "route", "p".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8441.
+_:df_1_8441 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+n.ttl>;
+    <https://w3id.org/tree#value> "route", "n".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8442.
+_:df_1_8442 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+c.ttl>;
+    <https://w3id.org/tree#value> "route", "c".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8443.
+_:df_1_8443 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+s.ttl>;
+    <https://w3id.org/tree#value> "route", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8444.
+_:df_1_8444 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+b.ttl>;
+    <https://w3id.org/tree#value> "route", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8445.
+_:df_1_8445 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+j.ttl>;
+    <https://w3id.org/tree#value> "route", "j".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8446.
+_:df_1_8446 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+i.ttl>;
+    <https://w3id.org/tree#value> "route", "i".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8447.
+_:df_1_8447 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+g.ttl>;
+    <https://w3id.org/tree#value> "route", "g".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8448.
+_:df_1_8448 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+a.ttl>;
+    <https://w3id.org/tree#value> "route", "a".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8449.
+_:df_1_8449 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+h.ttl>;
+    <https://w3id.org/tree#value> "route", "h".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8450.
+_:df_1_8450 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+v.ttl>;
+    <https://w3id.org/tree#value> "route", "v".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8451.
+_:df_1_8451 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+z.ttl>;
+    <https://w3id.org/tree#value> "route", "z".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8452.
+_:df_1_8452 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+m.ttl>;
+    <https://w3id.org/tree#value> "route", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl> <https://w3id.org/tree#relation> _:df_1_8453.
+_:df_1_8453 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route+l.ttl>;
+    <https://w3id.org/tree#value> "route", "l".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/route.ttl>.

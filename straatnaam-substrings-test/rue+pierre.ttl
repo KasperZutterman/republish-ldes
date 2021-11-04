@@ -231,3 +231,236 @@ _:df_1_20614 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+p.ttl>;
     <https://w3id.org/tree#value> "rue", "pierre", "p".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9596b9e4891ea6dc5192c227cf7fce287bbc0a25> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/107571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:37.708Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre du Mary"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9596b9e4891ea6dc5192c227cf7fce287bbc0a25>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d66d4c2448fe1f44d00ff5568db9e1102f1cd3d7> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/107572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:39.512Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierreuse"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63020>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d66d4c2448fe1f44d00ff5568db9e1102f1cd3d7>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#07048f4a949922b524758b24f367492d5f84b757> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/24080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:58.138Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pierre De Cockstraat"@nl, "Rue Pierre De Cock"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#07048f4a949922b524758b24f367492d5f84b757>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b3fbb6aad8019f45a6d5292cce2776394bdc0b7f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/24081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:30:58.746Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Delacroixstraat"@nl, "Rue Pierre Delacroix"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21019>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b3fbb6aad8019f45a6d5292cce2776394bdc0b7f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#30ada7c5a1709ca836b6bcd32ba2e3188f69d206> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/91610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:31:33.843Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre-Joseph Wincqz"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55040>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#30ada7c5a1709ca836b6bcd32ba2e3188f69d206>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#28b01c500bd6e7d41c8ee8fa2a3ed3f437022441> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:04.004Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pierre D'Hauwerstraat"@nl, "Rue Pierre D'Hauwer"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#28b01c500bd6e7d41c8ee8fa2a3ed3f437022441>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2146eb92a2b8bee720032c786e32ed44669a79e5> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/75017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:04.012Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2014-05-05T18:00:53+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameNameWasCorrected";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Pierre D'Hauwerstraat"@nl, "Rue Pierre D'Hauwer"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/45041>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2146eb92a2b8bee720032c786e32ed44669a79e5>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#dbc90dd8cab0dab66f5601761cf21d7a361e301b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/91763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:11.667Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Joseph Poliart"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55050>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#dbc90dd8cab0dab66f5601761cf21d7a361e301b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#aea845e8bfa1655811f39e817a4d5e1b65d3035c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/124991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:13.914Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre-Thomas"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/82003>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#aea845e8bfa1655811f39e817a4d5e1b65d3035c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#349dec1fbdb8546aaa27c80762ec3beac5081f9f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/91942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:32:57.629Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Babusiaux"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#349dec1fbdb8546aaa27c80762ec3beac5081f9f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d015db9de7f98762f12b9043928668e31056a541> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/109044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:35:23.754Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Hauzeur"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63058>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d015db9de7f98762f12b9043928668e31056a541>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#131088c0d921cda165b306bf8fc30fc49cf1bdab> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/109045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:35:25.088Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Piqueray"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63058>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#131088c0d921cda165b306bf8fc30fc49cf1bdab>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#59ba24b190d9cd79ff0c0f10b211eca99e6e093f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/125885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:35:39.907Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierressart"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/83013>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#59ba24b190d9cd79ff0c0f10b211eca99e6e093f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#037d9ea6effa1a2f587c03cd953f973af7f86fef> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/93341>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:38:11.063Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Barbe"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56044>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#037d9ea6effa1a2f587c03cd953f973af7f86fef>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#29024cc362eeb3228f80c9f443f25f4f2ce3a495> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/109970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:38:50.629Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Bourguet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63076>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#29024cc362eeb3228f80c9f443f25f4f2ce3a495>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#09eaa55b93aefcdce2bba9d5c0a98080533cfc72> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/43259>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:39:34.621Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Renard"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25120>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#09eaa55b93aefcdce2bba9d5c0a98080533cfc72>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#652f840c381ce517bacae4b0513f807f0a88fe99> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/93887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:20.815Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Mengal"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/56078>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#652f840c381ce517bacae4b0513f807f0a88fe99>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ffabd71aa66c38fc0efd9c032d7668b6ad0db54f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/110498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:55.902Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Lemarchand"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63079>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ffabd71aa66c38fc0efd9c032d7668b6ad0db54f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fe5d9ca74ad1044f0d6761708a5bd252fb6c5bb0> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/110499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:55.975Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre Limbourg"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63079>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fe5d9ca74ad1044f0d6761708a5bd252fb6c5bb0>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#abdfaf738f1de2f9d8e33cfa5fbec67a4609faf1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/110495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:40:56.025Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Pierre David"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/63079>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#abdfaf738f1de2f9d8e33cfa5fbec67a4609faf1>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20599.
+_:df_1_20599 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+f.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "f".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20600.
+_:df_1_20600 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+e.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "e".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20601.
+_:df_1_20601 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+c.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "c".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20602.
+_:df_1_20602 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+m.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20603.
+_:df_1_20603 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+t.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "t".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20604.
+_:df_1_20604 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+r.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "r".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20605.
+_:df_1_20605 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+l.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "l".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20606.
+_:df_1_20606 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierreu.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierreu".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20607.
+_:df_1_20607 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+o.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "o".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20608.
+_:df_1_20608 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+j.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "j".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20609.
+_:df_1_20609 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+b.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20610.
+_:df_1_20610 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+h.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "h".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl> <https://w3id.org/tree#relation> _:df_1_20611.
+_:df_1_20611 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre+p.ttl>;
+    <https://w3id.org/tree#value> "rue", "pierre", "p".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+pierre.ttl>.

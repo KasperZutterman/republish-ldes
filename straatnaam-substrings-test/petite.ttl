@@ -235,3 +235,240 @@ _:df_1_17740 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+t.ttl>;
     <https://w3id.org/tree#value> "petite", "t".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#02511ff6902a9ac781645e5cf8dad3738c08ae2a> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/89174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:21:31.391Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Doorwegstraat"@nl, "Petite Traverse"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/54010>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#02511ff6902a9ac781645e5cf8dad3738c08ae2a>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#e8c061bdcc150c77777647001de3a67a0d4160a5> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:22:47.317Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Korte Courtoisstraat"@nl, "Petite rue Courtois"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21012>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#e8c061bdcc150c77777647001de3a67a0d4160a5>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#fa2301d06105fea6a2161fc61de1ed50eadf2232> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:02.510Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite rue des Prés"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25037>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#fa2301d06105fea6a2161fc61de1ed50eadf2232>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#3135f75a5de6164db74b5a42118ac347ca5add05> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:24:20.811Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Kleine Hulpstraat"@nl, "Petite rue des Secours"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21014>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#3135f75a5de6164db74b5a42118ac347ca5add05>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d79ec758b80b572fde20bf910a9fd456f8b2ee97> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:29.607Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Korte Hulpstraat"@nl, "Petite rue des Secours"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d79ec758b80b572fde20bf910a9fd456f8b2ee97>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#850bde7f9cc8f4b28589d9b04ace06736659de6f> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/22847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:29.975Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Korte L'Olivierstraat"@nl, "Petite rue L'Olivier"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21015>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#850bde7f9cc8f4b28589d9b04ace06736659de6f>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0102bd8f8ea81056644efe756cf0eb080f03e718> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/106709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:25:58.410Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite Rimière"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62121>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0102bd8f8ea81056644efe756cf0eb080f03e718>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0472f42870ed02a391af6d139571d6cfc8f4d61d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:04.748Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite rue Neuve"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0472f42870ed02a391af6d139571d6cfc8f4d61d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0a64a18d5d23194f2677449e5d68fc98c8760bd2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/39887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:26:04.837Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite rue St Lambert"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0a64a18d5d23194f2677449e5d68fc98c8760bd2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f003cfce09a0fa1053fbebaa9ded39893a85eb21> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:19.364Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite avenue du Parc"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25050>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f003cfce09a0fa1053fbebaa9ded39893a85eb21>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#603adcfa966c84b53f4f67c6099bcdad7a8ee9a8> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40243>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:27:34.212Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite Chaussée"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25068>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#603adcfa966c84b53f4f67c6099bcdad7a8ee9a8>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#26f792a03cde8e87a32ff655f94f3fdb7d271594> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:02.449Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite Hollande"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55023>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#26f792a03cde8e87a32ff655f94f3fdb7d271594>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a9761939f9daa01c39b2cf1ae989782b08079427> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/124036>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:15.185Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite-Rue-des-Remparts"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/81001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a9761939f9daa01c39b2cf1ae989782b08079427>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#6e1bc5ead81961acde515094ccfc52bcd6d6fd39> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/124037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:16.418Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite-Rue-Porte-Neuve"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/81001>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#6e1bc5ead81961acde515094ccfc52bcd6d6fd39>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7876534db39b4da7f33842f258041ca19562c5b1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/90973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:28:54.367Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite Hollande"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/55035>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7876534db39b4da7f33842f258041ca19562c5b1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#0421903b6d99044b62dc40474d9ea47c1083d491> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:29.568Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Korte Driesstraat"@nl, "Petite rue Dries"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#0421903b6d99044b62dc40474d9ea47c1083d491>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7947cacfb0f136552a82402362fda42bb55dd5a4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:29.656Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Korte Kellestraat"@nl, "Petite rue Kelle"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7947cacfb0f136552a82402362fda42bb55dd5a4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#d679c9305c665614e145da90e8073eb6f2e3a5fb> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:29.798Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite rue des Communes"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25084>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#d679c9305c665614e145da90e8073eb6f2e3a5fb>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1c794514d45f3cbabfa27a21a85c0ed6a5232499> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/23730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:29.858Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Korte Stationsstraat"@nl, "Petite rue de la Station"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/21018>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1c794514d45f3cbabfa27a21a85c0ed6a5232499>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b00124cbbc24c3aabd2b2abf374a93c13ee0a320> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/40689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T16:29:31.603Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Petite rue du Moulin"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/25084>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b00124cbbc24c3aabd2b2abf374a93c13ee0a320>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17724.
+_:df_1_17724 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+r.ttl>;
+    <https://w3id.org/tree#value> "petite", "r".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17725.
+_:df_1_17725 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+a.ttl>;
+    <https://w3id.org/tree#value> "petite", "a".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17726.
+_:df_1_17726 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+b.ttl>;
+    <https://w3id.org/tree#value> "petite", "b".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17727.
+_:df_1_17727 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+m.ttl>;
+    <https://w3id.org/tree#value> "petite", "m".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17728.
+_:df_1_17728 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petites.ttl>;
+    <https://w3id.org/tree#value> "petites".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17729.
+_:df_1_17729 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+s.ttl>;
+    <https://w3id.org/tree#value> "petite", "s".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17730.
+_:df_1_17730 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+p.ttl>;
+    <https://w3id.org/tree#value> "petite", "p".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17731.
+_:df_1_17731 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+e.ttl>;
+    <https://w3id.org/tree#value> "petite", "e".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17732.
+_:df_1_17732 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+h.ttl>;
+    <https://w3id.org/tree#value> "petite", "h".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17733.
+_:df_1_17733 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+v.ttl>;
+    <https://w3id.org/tree#value> "petite", "v".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17734.
+_:df_1_17734 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+c.ttl>;
+    <https://w3id.org/tree#value> "petite", "c".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17735.
+_:df_1_17735 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+d.ttl>;
+    <https://w3id.org/tree#value> "petite", "d".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17736.
+_:df_1_17736 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+n.ttl>;
+    <https://w3id.org/tree#value> "petite", "n".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl> <https://w3id.org/tree#relation> _:df_1_17737.
+_:df_1_17737 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite+t.ttl>;
+    <https://w3id.org/tree#value> "petite", "t".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/petite.ttl>.

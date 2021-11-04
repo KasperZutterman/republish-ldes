@@ -251,3 +251,256 @@ _:df_1_3493 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cog.ttl>;
     <https://w3id.org/tree#value> "rue", "cog".
 <https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ead04993c9ff69ccdbb661ea899bb50efeb1fbcb> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/133887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:20.477Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Courte"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92045>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ead04993c9ff69ccdbb661ea899bb50efeb1fbcb>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#aa4b84008fbd74997afbc6a0839a68b58f6c4693> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/84243>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:45.566Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Courriaulx"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52055>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#aa4b84008fbd74997afbc6a0839a68b58f6c4693>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#1c86c19bc95cd3d54ec09ae342df545fb95f51e1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/84244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:46.192Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Courte"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52055>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#1c86c19bc95cd3d54ec09ae342df545fb95f51e1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#829f46383c7d311621b39c611442b154146a7eab> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/84240>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:48.159Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Commune"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52055>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#829f46383c7d311621b39c611442b154146a7eab>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b243da0a325e34a3402f4562805a7cc25fd5f14c> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/100744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:48.208Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Coquennerie"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62026>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b243da0a325e34a3402f4562805a7cc25fd5f14c>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#2925c6dbfb9db8cb41ff1fd360540dd307739a79> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/84241>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:49.477Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Commune Estienne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52055>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#2925c6dbfb9db8cb41ff1fd360540dd307739a79>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#9597af7d15084bc0a1a168507565a90aed7c8ff2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/84242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:49.703Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Corbison"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52055>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#9597af7d15084bc0a1a168507565a90aed7c8ff2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#5f9843580d854e8f99dc2e28776537406e4c4ee4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/134046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:54.852Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Cocriamont"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#5f9843580d854e8f99dc2e28776537406e4c4ee4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#78f21f024362b14412ee2e9daede6303918ebed1> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/134051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:54.959Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Cour-del-Mairesse"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#78f21f024362b14412ee2e9daede6303918ebed1>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#a4b8946b7512cdce4d9ea61bd54ad6d99ca1ce1d> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/134047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:55.802Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Colonry"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#a4b8946b7512cdce4d9ea61bd54ad6d99ca1ce1d>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#4fa4060723ec2d651e559311ccde451aa5ac058b> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/134048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:57.619Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Colot"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#4fa4060723ec2d651e559311ccde451aa5ac058b>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ae6d97634dddd1bedbadb934db6689d6c869b7e4> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/134049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:58.928Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Cortil-Curé"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ae6d97634dddd1bedbadb934db6689d6c869b7e4>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ba00aa34da89e30eb4fc7bcae0fdec1c866f41e2> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/134050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:45:59.329Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Cortil-Mozet"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92048>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ba00aa34da89e30eb4fc7bcae0fdec1c866f41e2>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#7e054177baa60e0fa1d1101c595822396251ca90> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/84366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:46:16.751Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Coin du Bois"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52055>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#7e054177baa60e0fa1d1101c595822396251ca90>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f7369462a7b2ef7b5f34fba06a1066b2bb69b70e> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/101048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:03.035Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Cortinel"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62032>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f7369462a7b2ef7b5f34fba06a1066b2bb69b70e>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#ae6a577d41e2fc3582e04fadff80dfcb5f5058d6> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/134403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:21.121Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Cottapré"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/92087>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#ae6a577d41e2fc3582e04fadff80dfcb5f5058d6>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#04535f9bf4d53d4c2fae74ef3aa0c746bd9edecf> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/84720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:37.808Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Coumagne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/52074>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#04535f9bf4d53d4c2fae74ef3aa0c746bd9edecf>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#f399e3aeb900f0809fac7b43013b2893b703f834> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/101267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:50.968Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Cokaiko"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#f399e3aeb900f0809fac7b43013b2893b703f834>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#72ba8acb122a0176c7ee7a1cc6ca3842b272ad27> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/101268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:51.435Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Colonel Piron"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#72ba8acb122a0176c7ee7a1cc6ca3842b272ad27>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam#b4f140ebdafc25f9ca8f022d05e247595513b299> <http://purl.org/dc/terms/isVersionOf> <https://data.vlaanderen.be/id/straatnaam/101269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-09-07T15:47:51.547Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/created> "2011-04-29T13:34:14+02:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/ns/adms#versionNotes> "StreetNameBecameCurrent";
+    <http://www.w3.org/2000/01/rdf-schema#label> "Rue Commandant Duchêne"@fr;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <https://data.vlaanderen.be/id/gemeente/62038>;
+    <https://data.vlaanderen.be/ns/adres#Straatnaam.status> <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>;
+    a <https://data.vlaanderen.be/ns/adres#Straatnaam>.
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <https://w3id.org/tree#member> <https://smartdata.dev-vlaanderen.be/base/straatnaam#b4f140ebdafc25f9ca8f022d05e247595513b299>.
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3475.
+_:df_1_3475 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cor.ttl>;
+    <https://w3id.org/tree#value> "rue", "cor".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3476.
+_:df_1_3476 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+com.ttl>;
+    <https://w3id.org/tree#value> "rue", "com".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3477.
+_:df_1_3477 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cou.ttl>;
+    <https://w3id.org/tree#value> "rue", "cou".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3478.
+_:df_1_3478 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+con.ttl>;
+    <https://w3id.org/tree#value> "rue", "con".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3479.
+_:df_1_3479 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+coc.ttl>;
+    <https://w3id.org/tree#value> "rue", "coc".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3480.
+_:df_1_3480 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+col.ttl>;
+    <https://w3id.org/tree#value> "rue", "col".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3481.
+_:df_1_3481 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+coq.ttl>;
+    <https://w3id.org/tree#value> "rue", "coq".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3482.
+_:df_1_3482 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cot.ttl>;
+    <https://w3id.org/tree#value> "rue", "cot".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3483.
+_:df_1_3483 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cos.ttl>;
+    <https://w3id.org/tree#value> "rue", "cos".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3484.
+_:df_1_3484 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cov.ttl>;
+    <https://w3id.org/tree#value> "rue", "cov".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3485.
+_:df_1_3485 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cop.ttl>;
+    <https://w3id.org/tree#value> "rue", "cop".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3486.
+_:df_1_3486 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cok.ttl>;
+    <https://w3id.org/tree#value> "rue", "cok".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3487.
+_:df_1_3487 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+coi.ttl>;
+    <https://w3id.org/tree#value> "rue", "coi".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3488.
+_:df_1_3488 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+coh.ttl>;
+    <https://w3id.org/tree#value> "rue", "coh".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3489.
+_:df_1_3489 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+coe.ttl>;
+    <https://w3id.org/tree#value> "rue", "coe".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3490.
+_:df_1_3490 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cow.ttl>;
+    <https://w3id.org/tree#value> "rue", "cow".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3491.
+_:df_1_3491 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+coo.ttl>;
+    <https://w3id.org/tree#value> "rue", "coo".
+<https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl> <https://w3id.org/tree#relation> _:df_1_3492.
+_:df_1_3492 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+cog.ttl>;
+    <https://w3id.org/tree#value> "rue", "cog".
+<https://smartdata.dev-vlaanderen.be/base/straatnaam> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/republish-ldes//straatnaam-substrings-test/rue+co.ttl>.
